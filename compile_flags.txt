@@ -1,0 +1,4 @@
+-I./Debug
+-I./Peripheral/inc
+-I./Core
+-I./User

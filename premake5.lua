@@ -21,6 +21,11 @@ project "Template"
 		"User/**.c"
 	}
 
+	buildoptions {
+	}
+
+	linkoptions {
+	}
 
 	filter "configurations:Debug"
 		symbols "On"
