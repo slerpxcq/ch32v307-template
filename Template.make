@@ -19,12 +19,12 @@ ifeq ($(config),debug)
   INCLUDES += -ICore -IDebug -IPeripheral/inc -IUser
   FORCE_INCLUDE +=
   ALL_CPPFLAGS += $(CPPFLAGS) -MD -MP $(DEFINES) $(INCLUDES)
-  ALL_CFLAGS += $(CFLAGS) $(ALL_CPPFLAGS) -g
-  ALL_CXXFLAGS += $(CXXFLAGS) $(ALL_CPPFLAGS) -g
+  ALL_CFLAGS += $(CFLAGS) $(ALL_CPPFLAGS) -march=rv32imac -mabi=ilp32 -O0 -g
+  ALL_CXXFLAGS += $(CXXFLAGS) $(ALL_CPPFLAGS) -march=rv32imac -mabi=ilp32 -O0 -g
   ALL_RESFLAGS += $(RESFLAGS) $(DEFINES) $(INCLUDES)
   LIBS +=
   LDDEPS +=
-  ALL_LDFLAGS += $(LDFLAGS)
+  ALL_LDFLAGS += $(LDFLAGS) -s -msave-restore -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -fno-common -Wunused -Wuninitialized -nostartfiles -Xlinker --gc-sections --specs=nosys.specs -Wl,-Map=Template.map -TLd/Link.ld -lc -lm -lnosys -g
   LINKCMD = $(CC) -o "$@" $(OBJECTS) $(RESOURCES) $(ALL_LDFLAGS) $(LIBS)
   define PREBUILDCMDS
   endef
@@ -46,12 +46,12 @@ ifeq ($(config),release)
   INCLUDES += -ICore -IDebug -IPeripheral/inc -IUser
   FORCE_INCLUDE +=
   ALL_CPPFLAGS += $(CPPFLAGS) -MD -MP $(DEFINES) $(INCLUDES)
-  ALL_CFLAGS += $(CFLAGS) $(ALL_CPPFLAGS) -O2
-  ALL_CXXFLAGS += $(CXXFLAGS) $(ALL_CPPFLAGS) -O2
+  ALL_CFLAGS += $(CFLAGS) $(ALL_CPPFLAGS) -march=rv32imac -mabi=ilp32 -Ofast
+  ALL_CXXFLAGS += $(CXXFLAGS) $(ALL_CPPFLAGS) -march=rv32imac -mabi=ilp32 -Ofast
   ALL_RESFLAGS += $(RESFLAGS) $(DEFINES) $(INCLUDES)
   LIBS +=
   LDDEPS +=
-  ALL_LDFLAGS += $(LDFLAGS) -s
+  ALL_LDFLAGS += $(LDFLAGS) -s -msave-restore -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -fno-common -Wunused -Wuninitialized -nostartfiles -Xlinker --gc-sections --specs=nosys.specs -Wl,-Map=Template.map -TLd/Link.ld -lc -lm -lnosys
   LINKCMD = $(CC) -o "$@" $(OBJECTS) $(RESOURCES) $(ALL_LDFLAGS) $(LIBS)
   define PREBUILDCMDS
   endef
@@ -93,6 +93,7 @@ OBJECTS := \
 	$(OBJDIR)/ch32v30x_tim.o \
 	$(OBJDIR)/ch32v30x_usart.o \
 	$(OBJDIR)/ch32v30x_wwdg.o \
+	$(OBJDIR)/startup_ch32v30x_D8.o \
 	$(OBJDIR)/ch32v30x_it.o \
 	$(OBJDIR)/main.o \
 	$(OBJDIR)/system_ch32v30x.o \
@@ -236,6 +237,9 @@ $(OBJDIR)/ch32v30x_usart.o: Peripheral/src/ch32v30x_usart.c
 	@echo $(notdir $<)
 	$(SILENT) $(CC) $(ALL_CFLAGS) $(FORCE_INCLUDE) -o "$@" -MF "$(@:%.o=%.d)" -c "$<"
 $(OBJDIR)/ch32v30x_wwdg.o: Peripheral/src/ch32v30x_wwdg.c
+	@echo $(notdir $<)
+	$(SILENT) $(CC) $(ALL_CFLAGS) $(FORCE_INCLUDE) -o "$@" -MF "$(@:%.o=%.d)" -c "$<"
+$(OBJDIR)/startup_ch32v30x_D8.o: Startup/startup_ch32v30x_D8.S
 	@echo $(notdir $<)
 	$(SILENT) $(CC) $(ALL_CFLAGS) $(FORCE_INCLUDE) -o "$@" -MF "$(@:%.o=%.d)" -c "$<"
 $(OBJDIR)/ch32v30x_it.o: User/ch32v30x_it.c

@@ -7,6 +7,10 @@ project "Template"
 	targetdir "bin/%{cfg.buildcfg}"
 	objdir "obj/%{cfg.buildcfg}"
 
+	ARCH = "-march=rv32imac -mabi=ilp32"
+	LIBS = "-lc -lm -lnosys"
+	LDSCRIPT = "Ld/Link.ld"
+
 	includedirs {
 		"Core",
 		"Debug",
@@ -18,18 +22,45 @@ project "Template"
 		"Core/*.c",
 		"Debug/*.c",
 		"Peripheral/src/*.c",
-		"User/**.c"
+		"User/**.c",
+		"Startup/startup_ch32v30x_D8.S"
 	}
 
 	buildoptions {
+		{ARCH}
 	}
 
 	linkoptions {
+		"-msave-restore",
+		"-fmessage-length=0",
+		"-fsigned-char",
+		"-ffunction-sections",
+		"-fdata-sections",
+		"-fno-common",
+		"-Wunused",
+		"-Wuninitialized",
+		"-nostartfiles",
+		"-Xlinker",
+		"--gc-sections",
+		"--specs=nosys.specs",
+		"-Wl,-Map=%{prj.name}.map",
+		"-T%{LDSCRIPT}",
+		{LIBS}
 	}
 
 	filter "configurations:Debug"
-		symbols "On"
+		buildoptions {
+			"-O0",
+			"-g"
+		}
+
+		linkoptions {
+			"-g"
+		}
 	
 	filter "configurations:Release"
-		optimize "On"
+		buildoptions { 
+			"-Ofast" 
+		}
+
 

@@ -1,0 +1,2122 @@
+Archive member included to satisfy reference by file (symbol)
+
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-printf.o)
+                              obj/Debug/main.o (printf)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-puts.o)
+                              obj/Debug/main.o (puts)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strlen.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-puts.o) (strlen)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfprintf.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-printf.o) (_vfprintf_r)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wcrtomb.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfprintf.o) (_wcrtomb_r)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wcsrtombs.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfprintf.o) (_wcsrtombs_r)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wsetup.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfprintf.o) (__swsetup_r)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-dtoa.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfprintf.o) (_dtoa_r)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fflush.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfprintf.o) (_fflush_r)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-findfp.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-puts.o) (__sinit)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-freer.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfprintf.o) (_free_r)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fvwrite.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-puts.o) (__sfvwrite_r)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fwalk.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-findfp.o) (_fwalk)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-impure.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fflush.o) (_global_impure_ptr)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-localeconv.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfprintf.o) (_localeconv_r)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-locale.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfprintf.o) (__global_locale)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-lock.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfprintf.o) (__retarget_lock_init_recursive)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-makebuf.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wsetup.o) (__smakebuf_r)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mallocr.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfprintf.o) (_malloc_r)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mbtowc_r.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-locale.o) (__ascii_mbtowc)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-memchr.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfprintf.o) (memchr)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-memcpy.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-dtoa.o) (memcpy)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-memmove-stub.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fvwrite.o) (memmove)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-memset.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfprintf.o) (memset)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mlock.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-freer.o) (__malloc_lock)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mprec.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-dtoa.o) (_Balloc)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-reallocr.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fvwrite.o) (_realloc_r)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-sbrkr.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-freer.o) (_sbrk_r)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-s_frexp.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfprintf.o) (frexp)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-stdio.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-findfp.o) (__sread)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strcasecmp.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-locale.o) (strcasecmp)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strcat.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-locale.o) (strcat)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strchr.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-locale.o) (strchr)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strcmp.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-locale.o) (strcmp)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strcpy.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-locale.o) (strcpy)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strlcpy.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-locale.o) (strlcpy)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strncasecmp.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-locale.o) (strncasecmp)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strncpy.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfprintf.o) (strncpy)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strtol.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-locale.o) (strtol)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfiprintf.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfprintf.o) (__sprint_r)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wcsnrtombs.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wcsrtombs.o) (_wcsnrtombs_r)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wctomb_r.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-locale.o) (__ascii_wctomb)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-writer.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-stdio.o) (_write_r)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-assert.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-dtoa.o) (__assert_func)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-callocr.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mprec.o) (_calloc_r)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-closer.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-stdio.o) (_close_r)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-ctype_.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-locale.o) (__set_ctype)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-errno.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strtol.o) (__errno)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fclose.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-findfp.o) (_fclose_r)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fiprintf.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-assert.o) (fiprintf)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fputwc.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfiprintf.o) (_fputwc_r)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fstatr.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-makebuf.o) (_fstat_r)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-getenv_r.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-locale.o) (_getenv_r)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-isattyr.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-makebuf.o) (_isatty_r)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-lseekr.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-stdio.o) (_lseek_r)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-readr.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-stdio.o) (_read_r)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-reent.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-sbrkr.o) (errno)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strncmp.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-getenv_r.o) (strncmp)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wbuf.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fputwc.o) (__swbuf_r)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-abort.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-assert.o) (abort)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-environ.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-getenv_r.o) (environ)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-envlock.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-getenv_r.o) (__env_lock)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-signal.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-abort.o) (raise)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-signalr.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-signal.o) (_kill_r)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(close.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-closer.o) (_close)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(fstat.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fstatr.o) (_fstat)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(getpid.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-signalr.o) (_getpid)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(isatty.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-isattyr.o) (_isatty)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(kill.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-signalr.o) (_kill)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(lseek.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-lseekr.o) (_lseek)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(read.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-readr.o) (_read)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(_exit.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-abort.o) (_exit)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(adddf3.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-dtoa.o) (__adddf3)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(divdf3.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-dtoa.o) (__divdf3)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(eqdf2.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfprintf.o) (__eqdf2)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(gedf2.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfprintf.o) (__gtdf2)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(ledf2.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfprintf.o) (__ledf2)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(muldf3.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfprintf.o) (__muldf3)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(subdf3.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfprintf.o) (__subdf3)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(unorddf2.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfprintf.o) (__unorddf2)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(fixdfsi.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfprintf.o) (__fixdfsi)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(floatsidf.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfprintf.o) (__floatsidf)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(floatunsidf.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-dtoa.o) (__floatunsidf)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(trunctfdf2.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfprintf.o) (__trunctfdf2)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(_clzsi2.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(adddf3.o) (__clzsi2)
+/usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(_clz.o)
+                              /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(_clzsi2.o) (__clz_tab)
+
+Discarded input sections
+
+ .text          0x0000000000000000      0x288 obj/Debug/core_riscv.o
+ .data          0x0000000000000000        0x0 obj/Debug/core_riscv.o
+ .bss           0x0000000000000000        0x0 obj/Debug/core_riscv.o
+ .debug_info    0x0000000000000000      0x42f obj/Debug/core_riscv.o
+ .debug_abbrev  0x0000000000000000      0x116 obj/Debug/core_riscv.o
+ .debug_aranges
+                0x0000000000000000       0x20 obj/Debug/core_riscv.o
+ .debug_line    0x0000000000000000      0x2f6 obj/Debug/core_riscv.o
+ .debug_str     0x0000000000000000      0x218 obj/Debug/core_riscv.o
+ .debug_line_str
+                0x0000000000000000       0xe6 obj/Debug/core_riscv.o
+ .comment       0x0000000000000000       0x34 obj/Debug/core_riscv.o
+ .debug_frame   0x0000000000000000      0x394 obj/Debug/core_riscv.o
+ .riscv.attributes
+                0x0000000000000000       0x34 obj/Debug/core_riscv.o
+ .data          0x0000000000000000        0x0 obj/Debug/debug.o
+ .debug_info    0x0000000000000000      0x622 obj/Debug/debug.o
+ .debug_abbrev  0x0000000000000000      0x24a obj/Debug/debug.o
+ .debug_aranges
+                0x0000000000000000       0x20 obj/Debug/debug.o
+ .debug_line    0x0000000000000000      0x35b obj/Debug/debug.o
+ .debug_str     0x0000000000000000      0x4a6 obj/Debug/debug.o
+ .debug_line_str
+                0x0000000000000000      0x185 obj/Debug/debug.o
+ .debug_frame   0x0000000000000000      0x118 obj/Debug/debug.o
+ .text          0x0000000000000000      0xfec obj/Debug/ch32v30x_adc.o
+ .data          0x0000000000000000        0x0 obj/Debug/ch32v30x_adc.o
+ .bss           0x0000000000000000        0x0 obj/Debug/ch32v30x_adc.o
+ .debug_info    0x0000000000000000      0xce3 obj/Debug/ch32v30x_adc.o
+ .debug_abbrev  0x0000000000000000      0x1e6 obj/Debug/ch32v30x_adc.o
+ .debug_aranges
+                0x0000000000000000       0x20 obj/Debug/ch32v30x_adc.o
+ .debug_line    0x0000000000000000      0xf33 obj/Debug/ch32v30x_adc.o
+ .debug_str     0x0000000000000000      0x764 obj/Debug/ch32v30x_adc.o
+ .debug_line_str
+                0x0000000000000000      0x14a obj/Debug/ch32v30x_adc.o
+ .comment       0x0000000000000000       0x34 obj/Debug/ch32v30x_adc.o
+ .debug_frame   0x0000000000000000      0x594 obj/Debug/ch32v30x_adc.o
+ .riscv.attributes
+                0x0000000000000000       0x34 obj/Debug/ch32v30x_adc.o
+ .text          0x0000000000000000      0x33e obj/Debug/ch32v30x_bkp.o
+ .data          0x0000000000000000        0x0 obj/Debug/ch32v30x_bkp.o
+ .bss           0x0000000000000000        0x0 obj/Debug/ch32v30x_bkp.o
+ .debug_info    0x0000000000000000      0x780 obj/Debug/ch32v30x_bkp.o
+ .debug_abbrev  0x0000000000000000      0x19b obj/Debug/ch32v30x_bkp.o
+ .debug_aranges
+                0x0000000000000000       0x20 obj/Debug/ch32v30x_bkp.o
+ .debug_line    0x0000000000000000      0x2d5 obj/Debug/ch32v30x_bkp.o
+ .debug_str     0x0000000000000000      0x5e8 obj/Debug/ch32v30x_bkp.o
+ .debug_line_str
+                0x0000000000000000      0x13b obj/Debug/ch32v30x_bkp.o
+ .comment       0x0000000000000000       0x34 obj/Debug/ch32v30x_bkp.o
+ .debug_frame   0x0000000000000000      0x1c4 obj/Debug/ch32v30x_bkp.o
+ .riscv.attributes
+                0x0000000000000000       0x34 obj/Debug/ch32v30x_bkp.o
+ .text          0x0000000000000000     0x1982 obj/Debug/ch32v30x_can.o
+ .data          0x0000000000000000        0x0 obj/Debug/ch32v30x_can.o
+ .bss           0x0000000000000000        0x0 obj/Debug/ch32v30x_can.o
+ .rodata        0x0000000000000000       0x84 obj/Debug/ch32v30x_can.o
+ .debug_info    0x0000000000000000      0xbb7 obj/Debug/ch32v30x_can.o
+ .debug_abbrev  0x0000000000000000      0x269 obj/Debug/ch32v30x_can.o
+ .debug_aranges
+                0x0000000000000000       0x20 obj/Debug/ch32v30x_can.o
+ .debug_line    0x0000000000000000     0x18f9 obj/Debug/ch32v30x_can.o
+ .debug_str     0x0000000000000000      0x731 obj/Debug/ch32v30x_can.o
+ .debug_line_str
+                0x0000000000000000      0x173 obj/Debug/ch32v30x_can.o
+ .comment       0x0000000000000000       0x34 obj/Debug/ch32v30x_can.o
+ .debug_frame   0x0000000000000000      0x3a0 obj/Debug/ch32v30x_can.o
+ .riscv.attributes
+                0x0000000000000000       0x34 obj/Debug/ch32v30x_can.o
+ .text          0x0000000000000000       0xd6 obj/Debug/ch32v30x_crc.o
+ .data          0x0000000000000000        0x0 obj/Debug/ch32v30x_crc.o
+ .bss           0x0000000000000000        0x0 obj/Debug/ch32v30x_crc.o
+ .debug_info    0x0000000000000000      0x1f8 obj/Debug/ch32v30x_crc.o
+ .debug_abbrev  0x0000000000000000      0x10b obj/Debug/ch32v30x_crc.o
+ .debug_aranges
+                0x0000000000000000       0x20 obj/Debug/ch32v30x_crc.o
+ .debug_line    0x0000000000000000      0x163 obj/Debug/ch32v30x_crc.o
+ .debug_str     0x0000000000000000      0x1be obj/Debug/ch32v30x_crc.o
+ .debug_line_str
+                0x0000000000000000      0x11a obj/Debug/ch32v30x_crc.o
+ .comment       0x0000000000000000       0x34 obj/Debug/ch32v30x_crc.o
+ .debug_frame   0x0000000000000000       0xe8 obj/Debug/ch32v30x_crc.o
+ .riscv.attributes
+                0x0000000000000000       0x34 obj/Debug/ch32v30x_crc.o
+ .text          0x0000000000000000      0x412 obj/Debug/ch32v30x_dac.o
+ .data          0x0000000000000000        0x0 obj/Debug/ch32v30x_dac.o
+ .bss           0x0000000000000000        0x0 obj/Debug/ch32v30x_dac.o
+ .debug_info    0x0000000000000000      0x492 obj/Debug/ch32v30x_dac.o
+ .debug_abbrev  0x0000000000000000      0x1af obj/Debug/ch32v30x_dac.o
+ .debug_aranges
+                0x0000000000000000       0x20 obj/Debug/ch32v30x_dac.o
+ .debug_line    0x0000000000000000      0x472 obj/Debug/ch32v30x_dac.o
+ .debug_str     0x0000000000000000      0x342 obj/Debug/ch32v30x_dac.o
+ .debug_line_str
+                0x0000000000000000      0x14a obj/Debug/ch32v30x_dac.o
+ .comment       0x0000000000000000       0x34 obj/Debug/ch32v30x_dac.o
+ .debug_frame   0x0000000000000000      0x1c4 obj/Debug/ch32v30x_dac.o
+ .riscv.attributes
+                0x0000000000000000       0x34 obj/Debug/ch32v30x_dac.o
+ .data          0x0000000000000000        0x0 obj/Debug/ch32v30x_dbgmcu.o
+ .bss           0x0000000000000000        0x0 obj/Debug/ch32v30x_dbgmcu.o
+ .debug_info    0x0000000000000000      0x187 obj/Debug/ch32v30x_dbgmcu.o
+ .debug_abbrev  0x0000000000000000       0xf9 obj/Debug/ch32v30x_dbgmcu.o
+ .debug_aranges
+                0x0000000000000000       0x20 obj/Debug/ch32v30x_dbgmcu.o
+ .debug_line    0x0000000000000000      0x12d obj/Debug/ch32v30x_dbgmcu.o
+ .debug_str     0x0000000000000000      0x186 obj/Debug/ch32v30x_dbgmcu.o
+ .debug_line_str
+                0x0000000000000000      0x11b obj/Debug/ch32v30x_dbgmcu.o
+ .debug_frame   0x0000000000000000       0xec obj/Debug/ch32v30x_dbgmcu.o
+ .text          0x0000000000000000      0x684 obj/Debug/ch32v30x_dma.o
+ .data          0x0000000000000000        0x0 obj/Debug/ch32v30x_dma.o
+ .bss           0x0000000000000000        0x0 obj/Debug/ch32v30x_dma.o
+ .debug_info    0x0000000000000000      0x437 obj/Debug/ch32v30x_dma.o
+ .debug_abbrev  0x0000000000000000      0x182 obj/Debug/ch32v30x_dma.o
+ .debug_aranges
+                0x0000000000000000       0x20 obj/Debug/ch32v30x_dma.o
+ .debug_line    0x0000000000000000      0x6dc obj/Debug/ch32v30x_dma.o
+ .debug_str     0x0000000000000000      0x336 obj/Debug/ch32v30x_dma.o
+ .debug_line_str
+                0x0000000000000000      0x13b obj/Debug/ch32v30x_dma.o
+ .comment       0x0000000000000000       0x34 obj/Debug/ch32v30x_dma.o
+ .debug_frame   0x0000000000000000      0x19c obj/Debug/ch32v30x_dma.o
+ .riscv.attributes
+                0x0000000000000000       0x34 obj/Debug/ch32v30x_dma.o
+ .text          0x0000000000000000      0x228 obj/Debug/ch32v30x_dvp.o
+ .data          0x0000000000000000        0x0 obj/Debug/ch32v30x_dvp.o
+ .bss           0x0000000000000000        0x0 obj/Debug/ch32v30x_dvp.o
+ .debug_info    0x0000000000000000      0x2f0 obj/Debug/ch32v30x_dvp.o
+ .debug_abbrev  0x0000000000000000       0xea obj/Debug/ch32v30x_dvp.o
+ .debug_aranges
+                0x0000000000000000       0x20 obj/Debug/ch32v30x_dvp.o
+ .debug_line    0x0000000000000000      0x1f2 obj/Debug/ch32v30x_dvp.o
+ .debug_str     0x0000000000000000      0x27f obj/Debug/ch32v30x_dvp.o
+ .debug_line_str
+                0x0000000000000000      0x129 obj/Debug/ch32v30x_dvp.o
+ .comment       0x0000000000000000       0x34 obj/Debug/ch32v30x_dvp.o
+ .debug_frame   0x0000000000000000       0x7c obj/Debug/ch32v30x_dvp.o
+ .riscv.attributes
+                0x0000000000000000       0x34 obj/Debug/ch32v30x_dvp.o
+ .text          0x0000000000000000     0x233c obj/Debug/ch32v30x_eth.o
+ .data          0x0000000000000000        0x0 obj/Debug/ch32v30x_eth.o
+ .bss           0x0000000000000000        0x0 obj/Debug/ch32v30x_eth.o
+ .sbss          0x0000000000000000       0x10 obj/Debug/ch32v30x_eth.o
+ .debug_info    0x0000000000000000     0x1a61 obj/Debug/ch32v30x_eth.o
+ .debug_abbrev  0x0000000000000000      0x282 obj/Debug/ch32v30x_eth.o
+ .debug_aranges
+                0x0000000000000000       0x20 obj/Debug/ch32v30x_eth.o
+ .debug_line    0x0000000000000000     0x26ec obj/Debug/ch32v30x_eth.o
+ .debug_str     0x0000000000000000     0x1453 obj/Debug/ch32v30x_eth.o
+ .debug_line_str
+                0x0000000000000000      0x14a obj/Debug/ch32v30x_eth.o
+ .comment       0x0000000000000000       0x34 obj/Debug/ch32v30x_eth.o
+ .debug_frame   0x0000000000000000      0xe30 obj/Debug/ch32v30x_eth.o
+ .riscv.attributes
+                0x0000000000000000       0x34 obj/Debug/ch32v30x_eth.o
+ .text          0x0000000000000000      0x2ea obj/Debug/ch32v30x_exti.o
+ .data          0x0000000000000000        0x0 obj/Debug/ch32v30x_exti.o
+ .bss           0x0000000000000000        0x0 obj/Debug/ch32v30x_exti.o
+ .debug_info    0x0000000000000000      0x334 obj/Debug/ch32v30x_exti.o
+ .debug_abbrev  0x0000000000000000      0x14b obj/Debug/ch32v30x_exti.o
+ .debug_aranges
+                0x0000000000000000       0x20 obj/Debug/ch32v30x_exti.o
+ .debug_line    0x0000000000000000      0x3c9 obj/Debug/ch32v30x_exti.o
+ .debug_str     0x0000000000000000      0x2cf obj/Debug/ch32v30x_exti.o
+ .debug_line_str
+                0x0000000000000000      0x13f obj/Debug/ch32v30x_exti.o
+ .comment       0x0000000000000000       0x34 obj/Debug/ch32v30x_exti.o
+ .debug_frame   0x0000000000000000      0x130 obj/Debug/ch32v30x_exti.o
+ .riscv.attributes
+                0x0000000000000000       0x34 obj/Debug/ch32v30x_exti.o
+ .text          0x0000000000000000     0x16ce obj/Debug/ch32v30x_flash.o
+ .data          0x0000000000000000        0x0 obj/Debug/ch32v30x_flash.o
+ .bss           0x0000000000000000        0x0 obj/Debug/ch32v30x_flash.o
+ .debug_info    0x0000000000000000      0xa35 obj/Debug/ch32v30x_flash.o
+ .debug_abbrev  0x0000000000000000      0x235 obj/Debug/ch32v30x_flash.o
+ .debug_aranges
+                0x0000000000000000       0x20 obj/Debug/ch32v30x_flash.o
+ .debug_line    0x0000000000000000     0x1990 obj/Debug/ch32v30x_flash.o
+ .debug_str     0x0000000000000000      0x63f obj/Debug/ch32v30x_flash.o
+ .debug_line_str
+                0x0000000000000000      0x143 obj/Debug/ch32v30x_flash.o
+ .comment       0x0000000000000000       0x34 obj/Debug/ch32v30x_flash.o
+ .debug_frame   0x0000000000000000      0x50c obj/Debug/ch32v30x_flash.o
+ .riscv.attributes
+                0x0000000000000000       0x34 obj/Debug/ch32v30x_flash.o
+ .text          0x0000000000000000      0x678 obj/Debug/ch32v30x_fsmc.o
+ .data          0x0000000000000000        0x0 obj/Debug/ch32v30x_fsmc.o
+ .bss           0x0000000000000000        0x0 obj/Debug/ch32v30x_fsmc.o
+ .debug_info    0x0000000000000000      0x5e1 obj/Debug/ch32v30x_fsmc.o
+ .debug_abbrev  0x0000000000000000      0x1a8 obj/Debug/ch32v30x_fsmc.o
+ .debug_aranges
+                0x0000000000000000       0x20 obj/Debug/ch32v30x_fsmc.o
+ .debug_line    0x0000000000000000      0x8f9 obj/Debug/ch32v30x_fsmc.o
+ .debug_str     0x0000000000000000      0x594 obj/Debug/ch32v30x_fsmc.o
+ .debug_line_str
+                0x0000000000000000      0x13f obj/Debug/ch32v30x_fsmc.o
+ .comment       0x0000000000000000       0x34 obj/Debug/ch32v30x_fsmc.o
+ .debug_frame   0x0000000000000000      0x19c obj/Debug/ch32v30x_fsmc.o
+ .riscv.attributes
+                0x0000000000000000       0x34 obj/Debug/ch32v30x_fsmc.o
+ .data          0x0000000000000000        0x0 obj/Debug/ch32v30x_gpio.o
+ .bss           0x0000000000000000        0x0 obj/Debug/ch32v30x_gpio.o
+ .debug_info    0x0000000000000000      0x716 obj/Debug/ch32v30x_gpio.o
+ .debug_abbrev  0x0000000000000000      0x211 obj/Debug/ch32v30x_gpio.o
+ .debug_aranges
+                0x0000000000000000       0x20 obj/Debug/ch32v30x_gpio.o
+ .debug_line    0x0000000000000000      0xb13 obj/Debug/ch32v30x_gpio.o
+ .debug_str     0x0000000000000000      0x4f2 obj/Debug/ch32v30x_gpio.o
+ .debug_line_str
+                0x0000000000000000      0x14e obj/Debug/ch32v30x_gpio.o
+ .debug_frame   0x0000000000000000      0x2c8 obj/Debug/ch32v30x_gpio.o
+ .text          0x0000000000000000      0xd96 obj/Debug/ch32v30x_i2c.o
+ .data          0x0000000000000000        0x0 obj/Debug/ch32v30x_i2c.o
+ .bss           0x0000000000000000        0x0 obj/Debug/ch32v30x_i2c.o
+ .debug_info    0x0000000000000000      0xafd obj/Debug/ch32v30x_i2c.o
+ .debug_abbrev  0x0000000000000000      0x1d9 obj/Debug/ch32v30x_i2c.o
+ .debug_aranges
+                0x0000000000000000       0x20 obj/Debug/ch32v30x_i2c.o
+ .debug_line    0x0000000000000000      0xa91 obj/Debug/ch32v30x_i2c.o
+ .debug_str     0x0000000000000000      0x623 obj/Debug/ch32v30x_i2c.o
+ .debug_line_str
+                0x0000000000000000      0x14a obj/Debug/ch32v30x_i2c.o
+ .comment       0x0000000000000000       0x34 obj/Debug/ch32v30x_i2c.o
+ .debug_frame   0x0000000000000000      0x4bc obj/Debug/ch32v30x_i2c.o
+ .riscv.attributes
+                0x0000000000000000       0x34 obj/Debug/ch32v30x_i2c.o
+ .text          0x0000000000000000       0xd2 obj/Debug/ch32v30x_iwdg.o
+ .data          0x0000000000000000        0x0 obj/Debug/ch32v30x_iwdg.o
+ .bss           0x0000000000000000        0x0 obj/Debug/ch32v30x_iwdg.o
+ .debug_info    0x0000000000000000      0x296 obj/Debug/ch32v30x_iwdg.o
+ .debug_abbrev  0x0000000000000000      0x12b obj/Debug/ch32v30x_iwdg.o
+ .debug_aranges
+                0x0000000000000000       0x20 obj/Debug/ch32v30x_iwdg.o
+ .debug_line    0x0000000000000000      0x170 obj/Debug/ch32v30x_iwdg.o
+ .debug_str     0x0000000000000000      0x246 obj/Debug/ch32v30x_iwdg.o
+ .debug_line_str
+                0x0000000000000000      0x12f obj/Debug/ch32v30x_iwdg.o
+ .comment       0x0000000000000000       0x34 obj/Debug/ch32v30x_iwdg.o
+ .debug_frame   0x0000000000000000       0xe8 obj/Debug/ch32v30x_iwdg.o
+ .riscv.attributes
+                0x0000000000000000       0x34 obj/Debug/ch32v30x_iwdg.o
+ .data          0x0000000000000000        0x0 obj/Debug/ch32v30x_misc.o
+ .bss           0x0000000000000000        0x0 obj/Debug/ch32v30x_misc.o
+ .debug_info    0x0000000000000000      0x68d obj/Debug/ch32v30x_misc.o
+ .debug_abbrev  0x0000000000000000      0x1b9 obj/Debug/ch32v30x_misc.o
+ .debug_aranges
+                0x0000000000000000       0x20 obj/Debug/ch32v30x_misc.o
+ .debug_line    0x0000000000000000      0x1ad obj/Debug/ch32v30x_misc.o
+ .debug_str     0x0000000000000000      0x7fb obj/Debug/ch32v30x_misc.o
+ .debug_line_str
+                0x0000000000000000      0x13f obj/Debug/ch32v30x_misc.o
+ .debug_frame   0x0000000000000000       0x58 obj/Debug/ch32v30x_misc.o
+ .text          0x0000000000000000      0x13c obj/Debug/ch32v30x_opa.o
+ .data          0x0000000000000000        0x0 obj/Debug/ch32v30x_opa.o
+ .bss           0x0000000000000000        0x0 obj/Debug/ch32v30x_opa.o
+ .debug_info    0x0000000000000000      0x262 obj/Debug/ch32v30x_opa.o
+ .debug_abbrev  0x0000000000000000      0x111 obj/Debug/ch32v30x_opa.o
+ .debug_aranges
+                0x0000000000000000       0x20 obj/Debug/ch32v30x_opa.o
+ .debug_line    0x0000000000000000      0x1ec obj/Debug/ch32v30x_opa.o
+ .debug_str     0x0000000000000000      0x1fe obj/Debug/ch32v30x_opa.o
+ .debug_line_str
+                0x0000000000000000      0x13b obj/Debug/ch32v30x_opa.o
+ .comment       0x0000000000000000       0x34 obj/Debug/ch32v30x_opa.o
+ .debug_frame   0x0000000000000000       0xa0 obj/Debug/ch32v30x_opa.o
+ .riscv.attributes
+                0x0000000000000000       0x34 obj/Debug/ch32v30x_opa.o
+ .text          0x0000000000000000      0x6c4 obj/Debug/ch32v30x_pwr.o
+ .data          0x0000000000000000        0x0 obj/Debug/ch32v30x_pwr.o
+ .bss           0x0000000000000000        0x0 obj/Debug/ch32v30x_pwr.o
+ .debug_info    0x0000000000000000      0x6c4 obj/Debug/ch32v30x_pwr.o
+ .debug_abbrev  0x0000000000000000      0x283 obj/Debug/ch32v30x_pwr.o
+ .debug_aranges
+                0x0000000000000000       0x20 obj/Debug/ch32v30x_pwr.o
+ .debug_line    0x0000000000000000      0x6ab obj/Debug/ch32v30x_pwr.o
+ .debug_str     0x0000000000000000      0x39a obj/Debug/ch32v30x_pwr.o
+ .debug_line_str
+                0x0000000000000000      0x13b obj/Debug/ch32v30x_pwr.o
+ .comment       0x0000000000000000       0x34 obj/Debug/ch32v30x_pwr.o
+ .debug_frame   0x0000000000000000      0x20c obj/Debug/ch32v30x_pwr.o
+ .riscv.attributes
+                0x0000000000000000       0x34 obj/Debug/ch32v30x_pwr.o
+ .bss           0x0000000000000000        0x0 obj/Debug/ch32v30x_rcc.o
+ .debug_info    0x0000000000000000      0xbc5 obj/Debug/ch32v30x_rcc.o
+ .debug_abbrev  0x0000000000000000      0x1fe obj/Debug/ch32v30x_rcc.o
+ .debug_aranges
+                0x0000000000000000       0x20 obj/Debug/ch32v30x_rcc.o
+ .debug_line    0x0000000000000000     0x1214 obj/Debug/ch32v30x_rcc.o
+ .debug_str     0x0000000000000000      0x822 obj/Debug/ch32v30x_rcc.o
+ .debug_line_str
+                0x0000000000000000      0x13b obj/Debug/ch32v30x_rcc.o
+ .debug_frame   0x0000000000000000      0x71c obj/Debug/ch32v30x_rcc.o
+ .text          0x0000000000000000      0x170 obj/Debug/ch32v30x_rng.o
+ .data          0x0000000000000000        0x0 obj/Debug/ch32v30x_rng.o
+ .bss           0x0000000000000000        0x0 obj/Debug/ch32v30x_rng.o
+ .debug_info    0x0000000000000000      0x247 obj/Debug/ch32v30x_rng.o
+ .debug_abbrev  0x0000000000000000      0x12d obj/Debug/ch32v30x_rng.o
+ .debug_aranges
+                0x0000000000000000       0x20 obj/Debug/ch32v30x_rng.o
+ .debug_line    0x0000000000000000      0x1e0 obj/Debug/ch32v30x_rng.o
+ .debug_str     0x0000000000000000      0x1cf obj/Debug/ch32v30x_rng.o
+ .debug_line_str
+                0x0000000000000000      0x12c obj/Debug/ch32v30x_rng.o
+ .comment       0x0000000000000000       0x34 obj/Debug/ch32v30x_rng.o
+ .debug_frame   0x0000000000000000      0x10c obj/Debug/ch32v30x_rng.o
+ .riscv.attributes
+                0x0000000000000000       0x34 obj/Debug/ch32v30x_rng.o
+ .text          0x0000000000000000      0x56c obj/Debug/ch32v30x_rtc.o
+ .data          0x0000000000000000        0x0 obj/Debug/ch32v30x_rtc.o
+ .bss           0x0000000000000000        0x0 obj/Debug/ch32v30x_rtc.o
+ .debug_info    0x0000000000000000      0x4a5 obj/Debug/ch32v30x_rtc.o
+ .debug_abbrev  0x0000000000000000      0x189 obj/Debug/ch32v30x_rtc.o
+ .debug_aranges
+                0x0000000000000000       0x20 obj/Debug/ch32v30x_rtc.o
+ .debug_line    0x0000000000000000      0x5ee obj/Debug/ch32v30x_rtc.o
+ .debug_str     0x0000000000000000      0x349 obj/Debug/ch32v30x_rtc.o
+ .debug_line_str
+                0x0000000000000000      0x12c obj/Debug/ch32v30x_rtc.o
+ .comment       0x0000000000000000       0x34 obj/Debug/ch32v30x_rtc.o
+ .debug_frame   0x0000000000000000      0x214 obj/Debug/ch32v30x_rtc.o
+ .riscv.attributes
+                0x0000000000000000       0x34 obj/Debug/ch32v30x_rtc.o
+ .text          0x0000000000000000      0x696 obj/Debug/ch32v30x_sdio.o
+ .data          0x0000000000000000        0x0 obj/Debug/ch32v30x_sdio.o
+ .bss           0x0000000000000000        0x0 obj/Debug/ch32v30x_sdio.o
+ .debug_info    0x0000000000000000      0x7e5 obj/Debug/ch32v30x_sdio.o
+ .debug_abbrev  0x0000000000000000      0x1f3 obj/Debug/ch32v30x_sdio.o
+ .debug_aranges
+                0x0000000000000000       0x20 obj/Debug/ch32v30x_sdio.o
+ .debug_line    0x0000000000000000      0x816 obj/Debug/ch32v30x_sdio.o
+ .debug_str     0x0000000000000000      0x5b1 obj/Debug/ch32v30x_sdio.o
+ .debug_line_str
+                0x0000000000000000      0x13f obj/Debug/ch32v30x_sdio.o
+ .comment       0x0000000000000000       0x34 obj/Debug/ch32v30x_sdio.o
+ .debug_frame   0x0000000000000000      0x448 obj/Debug/ch32v30x_sdio.o
+ .riscv.attributes
+                0x0000000000000000       0x34 obj/Debug/ch32v30x_sdio.o
+ .text          0x0000000000000000      0x9ea obj/Debug/ch32v30x_spi.o
+ .data          0x0000000000000000        0x0 obj/Debug/ch32v30x_spi.o
+ .bss           0x0000000000000000        0x0 obj/Debug/ch32v30x_spi.o
+ .debug_info    0x0000000000000000      0x92a obj/Debug/ch32v30x_spi.o
+ .debug_abbrev  0x0000000000000000      0x1c8 obj/Debug/ch32v30x_spi.o
+ .debug_aranges
+                0x0000000000000000       0x20 obj/Debug/ch32v30x_spi.o
+ .debug_line    0x0000000000000000      0x857 obj/Debug/ch32v30x_spi.o
+ .debug_str     0x0000000000000000      0x5d2 obj/Debug/ch32v30x_spi.o
+ .debug_line_str
+                0x0000000000000000      0x14a obj/Debug/ch32v30x_spi.o
+ .comment       0x0000000000000000       0x34 obj/Debug/ch32v30x_spi.o
+ .debug_frame   0x0000000000000000      0x354 obj/Debug/ch32v30x_spi.o
+ .riscv.attributes
+                0x0000000000000000       0x34 obj/Debug/ch32v30x_spi.o
+ .text          0x0000000000000000     0x296a obj/Debug/ch32v30x_tim.o
+ .data          0x0000000000000000        0x0 obj/Debug/ch32v30x_tim.o
+ .bss           0x0000000000000000        0x0 obj/Debug/ch32v30x_tim.o
+ .debug_info    0x0000000000000000     0x1c1f obj/Debug/ch32v30x_tim.o
+ .debug_abbrev  0x0000000000000000      0x1fa obj/Debug/ch32v30x_tim.o
+ .debug_aranges
+                0x0000000000000000       0x20 obj/Debug/ch32v30x_tim.o
+ .debug_line    0x0000000000000000     0x1c46 obj/Debug/ch32v30x_tim.o
+ .debug_str     0x0000000000000000      0xdc9 obj/Debug/ch32v30x_tim.o
+ .debug_line_str
+                0x0000000000000000      0x14a obj/Debug/ch32v30x_tim.o
+ .comment       0x0000000000000000       0x34 obj/Debug/ch32v30x_tim.o
+ .debug_frame   0x0000000000000000      0xcf8 obj/Debug/ch32v30x_tim.o
+ .riscv.attributes
+                0x0000000000000000       0x34 obj/Debug/ch32v30x_tim.o
+ .data          0x0000000000000000        0x0 obj/Debug/ch32v30x_usart.o
+ .bss           0x0000000000000000        0x0 obj/Debug/ch32v30x_usart.o
+ .debug_info    0x0000000000000000      0x99c obj/Debug/ch32v30x_usart.o
+ .debug_abbrev  0x0000000000000000      0x1ca obj/Debug/ch32v30x_usart.o
+ .debug_aranges
+                0x0000000000000000       0x20 obj/Debug/ch32v30x_usart.o
+ .debug_line    0x0000000000000000      0x9c8 obj/Debug/ch32v30x_usart.o
+ .debug_str     0x0000000000000000      0x63b obj/Debug/ch32v30x_usart.o
+ .debug_line_str
+                0x0000000000000000      0x152 obj/Debug/ch32v30x_usart.o
+ .debug_frame   0x0000000000000000      0x3e4 obj/Debug/ch32v30x_usart.o
+ .text          0x0000000000000000      0x168 obj/Debug/ch32v30x_wwdg.o
+ .data          0x0000000000000000        0x0 obj/Debug/ch32v30x_wwdg.o
+ .bss           0x0000000000000000        0x0 obj/Debug/ch32v30x_wwdg.o
+ .debug_info    0x0000000000000000      0x23a obj/Debug/ch32v30x_wwdg.o
+ .debug_abbrev  0x0000000000000000      0x146 obj/Debug/ch32v30x_wwdg.o
+ .debug_aranges
+                0x0000000000000000       0x20 obj/Debug/ch32v30x_wwdg.o
+ .debug_line    0x0000000000000000      0x1c3 obj/Debug/ch32v30x_wwdg.o
+ .debug_str     0x0000000000000000      0x204 obj/Debug/ch32v30x_wwdg.o
+ .debug_line_str
+                0x0000000000000000      0x13e obj/Debug/ch32v30x_wwdg.o
+ .comment       0x0000000000000000       0x34 obj/Debug/ch32v30x_wwdg.o
+ .debug_frame   0x0000000000000000      0x134 obj/Debug/ch32v30x_wwdg.o
+ .riscv.attributes
+                0x0000000000000000       0x34 obj/Debug/ch32v30x_wwdg.o
+ .text          0x0000000000000000        0x0 obj/Debug/startup_ch32v30x_D8.o
+ .data          0x0000000000000000        0x0 obj/Debug/startup_ch32v30x_D8.o
+ .bss           0x0000000000000000        0x0 obj/Debug/startup_ch32v30x_D8.o
+ .debug_line    0x0000000000000000      0x11a obj/Debug/startup_ch32v30x_D8.o
+ .debug_line_str
+                0x0000000000000000       0x5a obj/Debug/startup_ch32v30x_D8.o
+ .debug_info    0x0000000000000000       0x23 obj/Debug/startup_ch32v30x_D8.o
+ .debug_abbrev  0x0000000000000000       0x12 obj/Debug/startup_ch32v30x_D8.o
+ .debug_aranges
+                0x0000000000000000       0x30 obj/Debug/startup_ch32v30x_D8.o
+ .debug_str     0x0000000000000000       0x50 obj/Debug/startup_ch32v30x_D8.o
+ .debug_rnglists
+                0x0000000000000000       0x20 obj/Debug/startup_ch32v30x_D8.o
+ .data          0x0000000000000000        0x0 obj/Debug/ch32v30x_it.o
+ .bss           0x0000000000000000        0x0 obj/Debug/ch32v30x_it.o
+ .debug_info    0x0000000000000000      0x2fc obj/Debug/ch32v30x_it.o
+ .debug_abbrev  0x0000000000000000       0xfe obj/Debug/ch32v30x_it.o
+ .debug_aranges
+                0x0000000000000000       0x20 obj/Debug/ch32v30x_it.o
+ .debug_line    0x0000000000000000       0xa5 obj/Debug/ch32v30x_it.o
+ .debug_str     0x0000000000000000      0x1d3 obj/Debug/ch32v30x_it.o
+ .debug_line_str
+                0x0000000000000000       0xfb obj/Debug/ch32v30x_it.o
+ .debug_frame   0x0000000000000000       0x48 obj/Debug/ch32v30x_it.o
+ .text          0x0000000000000000        0x0 obj/Debug/main.o
+ .data          0x0000000000000000        0x0 obj/Debug/main.o
+ .bss           0x0000000000000000        0x0 obj/Debug/main.o
+ .debug_info    0x0000000000000000      0x115 obj/Debug/main.o
+ .debug_abbrev  0x0000000000000000       0xd8 obj/Debug/main.o
+ .debug_aranges
+                0x0000000000000000       0x20 obj/Debug/main.o
+ .debug_rnglists
+                0x0000000000000000       0x16 obj/Debug/main.o
+ .debug_line    0x0000000000000000       0xbb obj/Debug/main.o
+ .debug_str     0x0000000000000000      0x1a1 obj/Debug/main.o
+ .debug_line_str
+                0x0000000000000000      0x14e obj/Debug/main.o
+ .debug_frame   0x0000000000000000       0x2c obj/Debug/main.o
+ .bss           0x0000000000000000        0x0 obj/Debug/system_ch32v30x.o
+ .debug_info    0x0000000000000000      0x2d2 obj/Debug/system_ch32v30x.o
+ .debug_abbrev  0x0000000000000000      0x182 obj/Debug/system_ch32v30x.o
+ .debug_aranges
+                0x0000000000000000       0x20 obj/Debug/system_ch32v30x.o
+ .debug_line    0x0000000000000000      0x5b1 obj/Debug/system_ch32v30x.o
+ .debug_str     0x0000000000000000      0x244 obj/Debug/system_ch32v30x.o
+ .debug_line_str
+                0x0000000000000000      0x133 obj/Debug/system_ch32v30x.o
+ .debug_frame   0x0000000000000000       0xa8 obj/Debug/system_ch32v30x.o
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-printf.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-printf.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-printf.o)
+ .text._printf_r
+                0x0000000000000000       0x26 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-printf.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-puts.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-puts.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-puts.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strlen.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strlen.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strlen.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfprintf.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfprintf.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfprintf.o)
+ .text.vfprintf
+                0x0000000000000000       0x16 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfprintf.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wcrtomb.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wcrtomb.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wcrtomb.o)
+ .text.wcrtomb  0x0000000000000000       0x6a /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wcrtomb.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wcsrtombs.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wcsrtombs.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wcsrtombs.o)
+ .text.wcsrtombs
+                0x0000000000000000       0x1a /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wcsrtombs.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wsetup.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wsetup.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wsetup.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-dtoa.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-dtoa.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-dtoa.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fflush.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fflush.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fflush.o)
+ .text.fflush   0x0000000000000000       0x9c /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fflush.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-findfp.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-findfp.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-findfp.o)
+ .text.__fp_lock
+                0x0000000000000000       0x2a /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-findfp.o)
+ .text.__fp_unlock
+                0x0000000000000000       0x2a /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-findfp.o)
+ .text.__sfmoreglue
+                0x0000000000000000       0x50 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-findfp.o)
+ .text._cleanup
+                0x0000000000000000       0x18 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-findfp.o)
+ .text.__sfp    0x0000000000000000      0x126 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-findfp.o)
+ .text.__sinit_lock_acquire
+                0x0000000000000000       0x10 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-findfp.o)
+ .text.__sinit_lock_release
+                0x0000000000000000       0x10 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-findfp.o)
+ .text.__fp_lock_all
+                0x0000000000000000       0x30 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-findfp.o)
+ .text.__fp_unlock_all
+                0x0000000000000000       0x30 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-findfp.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-freer.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-freer.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-freer.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fvwrite.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fvwrite.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fvwrite.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fwalk.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fwalk.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fwalk.o)
+ .text._fwalk   0x0000000000000000       0x6c /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fwalk.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-impure.o)
+ .srodata._global_impure_ptr
+                0x0000000000000000        0x4 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-localeconv.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-localeconv.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-localeconv.o)
+ .text.__localeconv_l
+                0x0000000000000000        0x6 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-localeconv.o)
+ .text.localeconv
+                0x0000000000000000        0xa /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-localeconv.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-locale.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-locale.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-locale.o)
+ .rodata.currentlocale.str1.4
+                0x0000000000000000        0x2 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-locale.o)
+ .text.currentlocale
+                0x0000000000000000       0xb0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-locale.o)
+ .rodata.__loadlocale.str1.4
+                0x0000000000000000       0xd6 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-locale.o)
+ .text.__loadlocale
+                0x0000000000000000      0x6c8 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-locale.o)
+ .rodata.__loadlocale
+                0x0000000000000000       0xd4 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-locale.o)
+ .rodata.__get_locale_env.str1.4
+                0x0000000000000000        0xd /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-locale.o)
+ .text.__get_locale_env
+                0x0000000000000000       0x72 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-locale.o)
+ .text._setlocale_r
+                0x0000000000000000      0x32a /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-locale.o)
+ .text.setlocale
+                0x0000000000000000       0x14 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-locale.o)
+ .bss.saved_categories.0
+                0x0000000000000000       0xe0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-locale.o)
+ .bss.new_categories.1
+                0x0000000000000000       0xe0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-locale.o)
+ .bss.global_locale_string
+                0x0000000000000000       0xe7 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-locale.o)
+ .rodata.__C_locale
+                0x0000000000000000      0x16c /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-locale.o)
+ .data.__default_locale
+                0x0000000000000000       0x20 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-locale.o)
+ .rodata.categories
+                0x0000000000000000       0x1c /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-locale.o)
+ .sbss._PathLocale
+                0x0000000000000000        0x4 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-locale.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-lock.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-lock.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x0000000000000000        0x2 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x0000000000000000        0x2 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x0000000000000000        0x2 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x0000000000000000        0x4 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x0000000000000000        0x4 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x0000000000000000        0x2 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-lock.o)
+ .sbss.__lock___arc4random_mutex
+                0x0000000000000000        0x1 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-lock.o)
+ .sbss.__lock___dd_hash_mutex
+                0x0000000000000000        0x1 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-lock.o)
+ .sbss.__lock___tz_mutex
+                0x0000000000000000        0x1 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-lock.o)
+ .sbss.__lock___env_recursive_mutex
+                0x0000000000000000        0x1 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-lock.o)
+ .sbss.__lock___at_quick_exit_mutex
+                0x0000000000000000        0x1 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-lock.o)
+ .sbss.__lock___atexit_recursive_mutex
+                0x0000000000000000        0x1 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-lock.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-makebuf.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-makebuf.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-makebuf.o)
+ .text.__swhatbuf_r
+                0x0000000000000000       0x8c /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-makebuf.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mallocr.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mallocr.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mallocr.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mbtowc_r.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mbtowc_r.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mbtowc_r.o)
+ .text._mbtowc_r
+                0x0000000000000000        0xa /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mbtowc_r.o)
+ .text.__utf8_mbtowc
+                0x0000000000000000      0x260 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mbtowc_r.o)
+ .text.__sjis_mbtowc
+                0x0000000000000000      0x10c /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mbtowc_r.o)
+ .text.__eucjp_mbtowc
+                0x0000000000000000      0x18a /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mbtowc_r.o)
+ .text.__jis_mbtowc
+                0x0000000000000000      0x150 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mbtowc_r.o)
+ .rodata.__jis_mbtowc
+                0x0000000000000000       0xd8 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mbtowc_r.o)
+ .rodata.JIS_action_table
+                0x0000000000000000       0x48 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mbtowc_r.o)
+ .rodata.JIS_state_table
+                0x0000000000000000       0x48 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mbtowc_r.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-memchr.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-memchr.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-memchr.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-memcpy.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-memcpy.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-memcpy.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-memmove-stub.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-memmove-stub.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-memmove-stub.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mlock.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mlock.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mlock.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mprec.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mprec.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mprec.o)
+ .text.__s2b    0x0000000000000000       0xd8 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mprec.o)
+ .text.__ulp    0x0000000000000000       0x48 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mprec.o)
+ .text.__b2d    0x0000000000000000       0xd8 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mprec.o)
+ .text.__ratio  0x0000000000000000       0x6c /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mprec.o)
+ .text._mprec_log10
+                0x0000000000000000       0x6e /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mprec.o)
+ .text.__copybits
+                0x0000000000000000       0x46 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mprec.o)
+ .text.__any_on
+                0x0000000000000000       0x48 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mprec.o)
+ .rodata.__mprec_tinytens
+                0x0000000000000000       0x28 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mprec.o)
+ .srodata.cst8  0x0000000000000000       0x10 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mprec.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-reallocr.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-reallocr.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-reallocr.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-sbrkr.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-sbrkr.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-sbrkr.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-s_frexp.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-s_frexp.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-s_frexp.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-stdio.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-stdio.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-stdio.o)
+ .text.__seofread
+                0x0000000000000000        0x4 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-stdio.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strcasecmp.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strcasecmp.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strcasecmp.o)
+ .text.strcasecmp
+                0x0000000000000000       0x56 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strcasecmp.o)
+ .comment       0x0000000000000000       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strcasecmp.o)
+ .riscv.attributes
+                0x0000000000000000       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strcasecmp.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strcat.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strcat.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strcat.o)
+ .text.strcat   0x0000000000000000       0x60 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strcat.o)
+ .comment       0x0000000000000000       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strcat.o)
+ .riscv.attributes
+                0x0000000000000000       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strcat.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strchr.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strchr.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strchr.o)
+ .text.strchr   0x0000000000000000       0xf2 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strchr.o)
+ .comment       0x0000000000000000       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strchr.o)
+ .riscv.attributes
+                0x0000000000000000       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strchr.o)
+ .text          0x0000000000000000      0x11e /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strcmp.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strcmp.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strcmp.o)
+ .riscv.attributes
+                0x0000000000000000       0x32 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strcmp.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strcpy.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strcpy.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strcpy.o)
+ .text.strcpy   0x0000000000000000       0x78 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strcpy.o)
+ .comment       0x0000000000000000       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strcpy.o)
+ .riscv.attributes
+                0x0000000000000000       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strcpy.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strlcpy.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strlcpy.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strlcpy.o)
+ .text.strlcpy  0x0000000000000000       0x38 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strlcpy.o)
+ .comment       0x0000000000000000       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strlcpy.o)
+ .riscv.attributes
+                0x0000000000000000       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strlcpy.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strncasecmp.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strncasecmp.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strncasecmp.o)
+ .text.strncasecmp
+                0x0000000000000000       0x60 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strncasecmp.o)
+ .comment       0x0000000000000000       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strncasecmp.o)
+ .riscv.attributes
+                0x0000000000000000       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strncasecmp.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strncpy.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strncpy.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strncpy.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strtol.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strtol.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strtol.o)
+ .text._strtol_l.constprop.0
+                0x0000000000000000      0x16e /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strtol.o)
+ .text._strtol_r
+                0x0000000000000000        0x8 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strtol.o)
+ .text.strtol_l
+                0x0000000000000000       0x16 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strtol.o)
+ .text.strtol   0x0000000000000000       0x16 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strtol.o)
+ .comment       0x0000000000000000       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strtol.o)
+ .riscv.attributes
+                0x0000000000000000       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strtol.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfiprintf.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfiprintf.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfiprintf.o)
+ .text.vfiprintf
+                0x0000000000000000       0x16 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfiprintf.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wcsnrtombs.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wcsnrtombs.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wcsnrtombs.o)
+ .text.wcsnrtombs
+                0x0000000000000000       0x22 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wcsnrtombs.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wctomb_r.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wctomb_r.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wctomb_r.o)
+ .text._wctomb_r
+                0x0000000000000000        0xa /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wctomb_r.o)
+ .text.__utf8_wctomb
+                0x0000000000000000       0xca /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wctomb_r.o)
+ .text.__sjis_wctomb
+                0x0000000000000000       0x6a /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wctomb_r.o)
+ .text.__eucjp_wctomb
+                0x0000000000000000       0x90 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wctomb_r.o)
+ .text.__jis_wctomb
+                0x0000000000000000       0x92 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wctomb_r.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-writer.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-writer.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-writer.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-assert.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-assert.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-assert.o)
+ .text.__assert
+                0x0000000000000000       0x10 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-assert.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-callocr.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-callocr.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-callocr.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-closer.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-closer.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-closer.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-ctype_.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-ctype_.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-ctype_.o)
+ .text.__set_ctype
+                0x0000000000000000        0xe /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-ctype_.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-errno.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-errno.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-errno.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fclose.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fclose.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fclose.o)
+ .text.fclose   0x0000000000000000       0x12 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fclose.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fiprintf.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fiprintf.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fiprintf.o)
+ .text._fiprintf_r
+                0x0000000000000000       0x24 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fiprintf.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fputwc.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fputwc.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fputwc.o)
+ .text.fputwc   0x0000000000000000       0xa6 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fputwc.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fstatr.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fstatr.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fstatr.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-getenv_r.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-getenv_r.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-getenv_r.o)
+ .text._findenv_r
+                0x0000000000000000       0xba /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-getenv_r.o)
+ .text._getenv_r
+                0x0000000000000000       0x14 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-getenv_r.o)
+ .comment       0x0000000000000000       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-getenv_r.o)
+ .riscv.attributes
+                0x0000000000000000       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-getenv_r.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-isattyr.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-isattyr.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-isattyr.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-lseekr.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-lseekr.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-lseekr.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-readr.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-readr.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-readr.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-reent.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-reent.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x0000000000000000       0x76 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x0000000000000000       0xd0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-reent.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strncmp.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strncmp.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strncmp.o)
+ .text.strncmp  0x0000000000000000       0x86 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strncmp.o)
+ .comment       0x0000000000000000       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strncmp.o)
+ .riscv.attributes
+                0x0000000000000000       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strncmp.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wbuf.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wbuf.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wbuf.o)
+ .text.__swbuf  0x0000000000000000       0x14 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wbuf.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-abort.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-abort.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-abort.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-environ.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-environ.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-environ.o)
+ .sdata.environ
+                0x0000000000000000        0x4 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-environ.o)
+ .sbss.initial_env
+                0x0000000000000000        0x4 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-environ.o)
+ .comment       0x0000000000000000       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-environ.o)
+ .riscv.attributes
+                0x0000000000000000       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-environ.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-envlock.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-envlock.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-envlock.o)
+ .text.__env_lock
+                0x0000000000000000       0x10 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-envlock.o)
+ .text.__env_unlock
+                0x0000000000000000       0x10 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-envlock.o)
+ .comment       0x0000000000000000       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-envlock.o)
+ .riscv.attributes
+                0x0000000000000000       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-envlock.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-signal.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-signal.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-signal.o)
+ .text._init_signal_r
+                0x0000000000000000       0x40 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-signal.o)
+ .text._signal_r
+                0x0000000000000000       0x5c /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-signal.o)
+ .text._raise_r
+                0x0000000000000000       0x7a /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-signal.o)
+ .text.__sigtramp_r
+                0x0000000000000000       0x8c /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-signal.o)
+ .text.signal   0x0000000000000000       0x68 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-signal.o)
+ .text._init_signal
+                0x0000000000000000       0x46 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-signal.o)
+ .text.__sigtramp
+                0x0000000000000000       0x90 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-signal.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-signalr.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-signalr.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-signalr.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(close.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(close.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(close.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(fstat.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(fstat.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(fstat.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(getpid.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(getpid.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(getpid.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(isatty.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(isatty.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(isatty.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(kill.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(kill.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(kill.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(lseek.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(lseek.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(lseek.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(read.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(read.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(read.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(_exit.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(_exit.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(_exit.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(adddf3.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(adddf3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(adddf3.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(divdf3.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(divdf3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(divdf3.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(eqdf2.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(eqdf2.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(eqdf2.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(gedf2.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(gedf2.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(gedf2.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(ledf2.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(ledf2.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(ledf2.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(muldf3.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(muldf3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(muldf3.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(subdf3.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(subdf3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(subdf3.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(unorddf2.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(unorddf2.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(unorddf2.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(fixdfsi.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(fixdfsi.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(fixdfsi.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(floatsidf.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(floatsidf.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(floatsidf.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(floatunsidf.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(floatunsidf.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(floatunsidf.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(trunctfdf2.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(trunctfdf2.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(trunctfdf2.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(_clzsi2.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(_clzsi2.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(_clzsi2.o)
+ .text          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(_clz.o)
+ .data          0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(_clz.o)
+ .bss           0x0000000000000000        0x0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(_clz.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x0000000000000000 0x0000000000048000 xr
+RAM              0x0000000020000000 0x0000000000008000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD obj/Debug/core_riscv.o
+LOAD obj/Debug/debug.o
+LOAD obj/Debug/ch32v30x_adc.o
+LOAD obj/Debug/ch32v30x_bkp.o
+LOAD obj/Debug/ch32v30x_can.o
+LOAD obj/Debug/ch32v30x_crc.o
+LOAD obj/Debug/ch32v30x_dac.o
+LOAD obj/Debug/ch32v30x_dbgmcu.o
+LOAD obj/Debug/ch32v30x_dma.o
+LOAD obj/Debug/ch32v30x_dvp.o
+LOAD obj/Debug/ch32v30x_eth.o
+LOAD obj/Debug/ch32v30x_exti.o
+LOAD obj/Debug/ch32v30x_flash.o
+LOAD obj/Debug/ch32v30x_fsmc.o
+LOAD obj/Debug/ch32v30x_gpio.o
+LOAD obj/Debug/ch32v30x_i2c.o
+LOAD obj/Debug/ch32v30x_iwdg.o
+LOAD obj/Debug/ch32v30x_misc.o
+LOAD obj/Debug/ch32v30x_opa.o
+LOAD obj/Debug/ch32v30x_pwr.o
+LOAD obj/Debug/ch32v30x_rcc.o
+LOAD obj/Debug/ch32v30x_rng.o
+LOAD obj/Debug/ch32v30x_rtc.o
+LOAD obj/Debug/ch32v30x_sdio.o
+LOAD obj/Debug/ch32v30x_spi.o
+LOAD obj/Debug/ch32v30x_tim.o
+LOAD obj/Debug/ch32v30x_usart.o
+LOAD obj/Debug/ch32v30x_wwdg.o
+LOAD obj/Debug/startup_ch32v30x_D8.o
+LOAD obj/Debug/ch32v30x_it.o
+LOAD obj/Debug/main.o
+LOAD obj/Debug/system_ch32v30x.o
+LOAD /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a
+LOAD /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libm.a
+LOAD /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a
+LOAD /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a
+START GROUP
+LOAD /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a
+END GROUP
+LOAD /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a
+START GROUP
+LOAD /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a
+LOAD /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a
+LOAD /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a
+END GROUP
+                0x0000000000000800                __stack_size = 0x800
+                [!provide]                        PROVIDE (_stack_size = __stack_size)
+
+.init           0x0000000000000000        0x4
+                0x0000000000000000                _sinit = .
+                0x0000000000000000                . = ALIGN (0x4)
+ *(SORT_NONE(.init))
+ .init          0x0000000000000000        0x4 obj/Debug/startup_ch32v30x_D8.o
+                0x0000000000000000                _start
+                0x0000000000000004                . = ALIGN (0x4)
+                0x0000000000000004                _einit = .
+
+.vector         0x0000000000000004      0x1bc
+ *(.vector)
+ .vector        0x0000000000000004      0x1a0 obj/Debug/startup_ch32v30x_D8.o
+                0x00000000000001c0                . = ALIGN (0x40)
+ *fill*         0x00000000000001a4       0x1c 
+
+.text           0x00000000000001c0     0xcb68
+                0x00000000000001c0                . = ALIGN (0x4)
+ *(.text)
+ .text          0x00000000000001c0      0x2d2 obj/Debug/debug.o
+                0x00000000000001c0                Delay_Init
+                0x0000000000000202                Delay_Us
+                0x0000000000000284                Delay_Ms
+                0x0000000000000306                USART_Printf_Init
+                0x000000000000038a                SDI_Printf_Enable
+                0x00000000000003ae                _write
+                0x0000000000000424                _sbrk
+ .text          0x0000000000000492       0xca obj/Debug/ch32v30x_dbgmcu.o
+                0x0000000000000492                DBGMCU_GetREVID
+                0x00000000000004b0                DBGMCU_GetDEVID
+                0x00000000000004ca                __get_DEBUG_CR
+                0x00000000000004e4                __set_DEBUG_CR
+                0x00000000000004fe                DBGMCU_Config
+                0x0000000000000544                DBGMCU_GetCHIPID
+ .text          0x000000000000055c      0xc76 obj/Debug/ch32v30x_gpio.o
+                0x000000000000055c                GPIO_DeInit
+                0x000000000000061e                GPIO_AFIODeInit
+                0x0000000000000640                GPIO_Init
+                0x000000000000086a                GPIO_StructInit
+                0x0000000000000896                GPIO_ReadInputDataBit
+                0x00000000000008d0                GPIO_ReadInputData
+                0x00000000000008ec                GPIO_ReadOutputDataBit
+                0x0000000000000926                GPIO_ReadOutputData
+                0x0000000000000942                GPIO_SetBits
+                0x0000000000000964                GPIO_ResetBits
+                0x0000000000000986                GPIO_WriteBit
+                0x00000000000009be                GPIO_Write
+                0x00000000000009e0                GPIO_PinLockConfig
+                0x0000000000000a3e                GPIO_EventOutputConfig
+                0x0000000000000aa0                GPIO_EventOutputCmd
+                0x0000000000000ada                GPIO_PinRemapConfig
+                0x0000000000000caa                GPIO_EXTILineConfig
+                0x0000000000000d4c                GPIO_ETH_MediaInterfaceConfig
+                0x0000000000000d8c                GPIO_IPD_Unused
+ .text          0x00000000000011d2       0xfa obj/Debug/ch32v30x_misc.o
+                0x00000000000011d2                NVIC_PriorityGroupConfig
+                0x00000000000011ec                NVIC_Init
+ .text          0x00000000000012cc     0x10da obj/Debug/ch32v30x_rcc.o
+                0x00000000000012cc                RCC_DeInit
+                0x000000000000135e                RCC_HSEConfig
+                0x00000000000013d4                RCC_WaitForHSEStartUp
+                0x0000000000001434                RCC_AdjustHSICalibrationValue
+                0x000000000000147c                RCC_HSICmd
+                0x00000000000014b4                RCC_PLLConfig
+                0x0000000000001528                RCC_PLLCmd
+                0x0000000000001568                RCC_SYSCLKConfig
+                0x00000000000015aa                RCC_GetSYSCLKSource
+                0x00000000000015c8                RCC_HCLKConfig
+                0x000000000000160c                RCC_PCLK1Config
+                0x0000000000001650                RCC_PCLK2Config
+                0x000000000000169a                RCC_ITConfig
+                0x0000000000001706                RCC_ADCCLKConfig
+                0x000000000000174c                RCC_LSEConfig
+                0x00000000000017aa                RCC_LSICmd
+                0x00000000000017e2                RCC_RTCCLKConfig
+                0x0000000000001806                RCC_RTCCLKCmd
+                0x0000000000001842                RCC_GetClocksFreq
+                0x0000000000001be2                RCC_AHBPeriphClockCmd
+                0x0000000000001c28                RCC_APB2PeriphClockCmd
+                0x0000000000001c6e                RCC_APB1PeriphClockCmd
+                0x0000000000001cb4                RCC_APB2PeriphResetCmd
+                0x0000000000001cfa                RCC_APB1PeriphResetCmd
+                0x0000000000001d40                RCC_BackupResetCmd
+                0x0000000000001d7c                RCC_ClockSecuritySystemCmd
+                0x0000000000001dbc                RCC_MCOConfig
+                0x0000000000001dde                RCC_GetFlagStatus
+                0x0000000000001e6c                RCC_ClearFlag
+                0x0000000000001e8c                RCC_GetITStatus
+                0x0000000000001ec2                RCC_ClearITPendingBit
+                0x0000000000001ee4                RCC_PREDIV1Config
+                0x0000000000001f34                RCC_PREDIV2Config
+                0x0000000000001f78                RCC_PLL2Config
+                0x0000000000001fc0                RCC_PLL2Cmd
+                0x0000000000002000                RCC_PLL3Config
+                0x0000000000002046                RCC_PLL3Cmd
+                0x0000000000002086                RCC_USBFSCLKConfig
+                0x00000000000020c2                RCC_I2S2CLKConfig
+                0x00000000000020fc                RCC_I2S3CLKConfig
+                0x0000000000002138                RCC_AHBPeriphResetCmd
+                0x000000000000217e                RCC_ADCCLKADJcmd
+                0x00000000000021be                RCC_RNGCLKConfig
+                0x00000000000021fa                RCC_ETH1GCLKConfig
+                0x0000000000002236                RCC_ETH1G_125Mcmd
+                0x0000000000002276                RCC_USBHSConfig
+                0x00000000000022b2                RCC_USBHSPLLCLKConfig
+                0x00000000000022ee                RCC_USBHSPLLCKREFCLKConfig
+                0x000000000000232a                RCC_USBHSPHYPLLALIVEcmd
+                0x000000000000236a                RCC_USBCLK48MConfig
+ .text          0x00000000000023a6      0xc18 obj/Debug/ch32v30x_usart.o
+                0x00000000000023a6                USART_DeInit
+                0x00000000000024da                USART_Init
+                0x00000000000026a6                USART_StructInit
+                0x00000000000026ee                USART_ClockInit
+                0x000000000000277c                USART_ClockStructInit
+                0x00000000000027ae                USART_Cmd
+                0x000000000000280e                USART_ITConfig
+                0x00000000000028d2                USART_DMACmd
+                0x0000000000002940                USART_SetAddress
+                0x000000000000299a                USART_WakeUpConfig
+                0x00000000000029f6                USART_ReceiverWakeUpCmd
+                0x0000000000002a4e                USART_LINBreakDetectLengthConfig
+                0x0000000000002aa4                USART_LINCmd
+                0x0000000000002b04                USART_SendData
+                0x0000000000002b32                USART_ReceiveData
+                0x0000000000002b58                USART_SendBreak
+                0x0000000000002b88                USART_SetGuardTime
+                0x0000000000002bea                USART_SetPrescaler
+                0x0000000000002c46                USART_SmartCardCmd
+                0x0000000000002ca0                USART_SmartCardNACKCmd
+                0x0000000000002cf8                USART_HalfDuplexCmd
+                0x0000000000002d50                USART_IrDAConfig
+                0x0000000000002da4                USART_IrDACmd
+                0x0000000000002dfc                USART_GetFlagStatus
+                0x0000000000002e40                USART_ClearFlag
+                0x0000000000002e6e                USART_GetITStatus
+                0x0000000000002f70                USART_ClearITPendingBit
+ .text          0x0000000000002fbe       0x20 obj/Debug/ch32v30x_it.o
+                0x0000000000002fbe                NMI_Handler
+                0x0000000000002fc6                HardFault_Handler
+ .text          0x0000000000002fde      0x47e obj/Debug/system_ch32v30x.o
+                0x0000000000002fde                SystemInit
+                0x0000000000003076                SystemCoreClockUpdate
+ .text          0x000000000000345c       0xa8 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-memset.o)
+                0x000000000000345c                memset
+ *(.text.*)
+ .text.vector_handler
+                0x0000000000003504        0x2 obj/Debug/startup_ch32v30x_D8.o
+                0x0000000000003504                EXTI2_IRQHandler
+                0x0000000000003504                TIM8_TRG_COM_IRQHandler
+                0x0000000000003504                TIM8_CC_IRQHandler
+                0x0000000000003504                UART8_IRQHandler
+                0x0000000000003504                TIM1_CC_IRQHandler
+                0x0000000000003504                TIM6_IRQHandler
+                0x0000000000003504                SysTick_Handler
+                0x0000000000003504                PVD_IRQHandler
+                0x0000000000003504                SDIO_IRQHandler
+                0x0000000000003504                TIM9_BRK_IRQHandler
+                0x0000000000003504                DMA2_Channel8_IRQHandler
+                0x0000000000003504                EXTI3_IRQHandler
+                0x0000000000003504                DMA2_Channel9_IRQHandler
+                0x0000000000003504                TIM10_CC_IRQHandler
+                0x0000000000003504                USBFS_IRQHandler
+                0x0000000000003504                EXTI0_IRQHandler
+                0x0000000000003504                I2C2_EV_IRQHandler
+                0x0000000000003504                TIM10_TRG_COM_IRQHandler
+                0x0000000000003504                ADC1_2_IRQHandler
+                0x0000000000003504                Break_Point_Handler
+                0x0000000000003504                SPI1_IRQHandler
+                0x0000000000003504                TAMPER_IRQHandler
+                0x0000000000003504                TIM8_UP_IRQHandler
+                0x0000000000003504                Ecall_M_Mode_Handler
+                0x0000000000003504                DMA2_Channel2_IRQHandler
+                0x0000000000003504                DMA1_Channel4_IRQHandler
+                0x0000000000003504                TIM9_UP_IRQHandler
+                0x0000000000003504                USART3_IRQHandler
+                0x0000000000003504                RTC_IRQHandler
+                0x0000000000003504                DMA1_Channel7_IRQHandler
+                0x0000000000003504                CAN1_RX1_IRQHandler
+                0x0000000000003504                UART5_IRQHandler
+                0x0000000000003504                TIM4_IRQHandler
+                0x0000000000003504                DMA2_Channel1_IRQHandler
+                0x0000000000003504                I2C1_EV_IRQHandler
+                0x0000000000003504                DMA1_Channel6_IRQHandler
+                0x0000000000003504                UART4_IRQHandler
+                0x0000000000003504                DMA2_Channel4_IRQHandler
+                0x0000000000003504                TIM3_IRQHandler
+                0x0000000000003504                RCC_IRQHandler
+                0x0000000000003504                TIM1_TRG_COM_IRQHandler
+                0x0000000000003504                DMA1_Channel1_IRQHandler
+                0x0000000000003504                DMA2_Channel7_IRQHandler
+                0x0000000000003504                EXTI15_10_IRQHandler
+                0x0000000000003504                TIM7_IRQHandler
+                0x0000000000003504                TIM5_IRQHandler
+                0x0000000000003504                EXTI9_5_IRQHandler
+                0x0000000000003504                SPI2_IRQHandler
+                0x0000000000003504                TIM10_BRK_IRQHandler
+                0x0000000000003504                TIM9_CC_IRQHandler
+                0x0000000000003504                DMA2_Channel5_IRQHandler
+                0x0000000000003504                DMA1_Channel5_IRQHandler
+                0x0000000000003504                EXTI4_IRQHandler
+                0x0000000000003504                USB_LP_CAN1_RX0_IRQHandler
+                0x0000000000003504                RNG_IRQHandler
+                0x0000000000003504                USB_HP_CAN1_TX_IRQHandler
+                0x0000000000003504                DMA1_Channel3_IRQHandler
+                0x0000000000003504                TIM1_UP_IRQHandler
+                0x0000000000003504                WWDG_IRQHandler
+                0x0000000000003504                DMA2_Channel11_IRQHandler
+                0x0000000000003504                Ecall_U_Mode_Handler
+                0x0000000000003504                DMA2_Channel6_IRQHandler
+                0x0000000000003504                TIM2_IRQHandler
+                0x0000000000003504                SW_Handler
+                0x0000000000003504                TIM1_BRK_IRQHandler
+                0x0000000000003504                DMA2_Channel10_IRQHandler
+                0x0000000000003504                EXTI1_IRQHandler
+                0x0000000000003504                RTCAlarm_IRQHandler
+                0x0000000000003504                TIM10_UP_IRQHandler
+                0x0000000000003504                TIM9_TRG_COM_IRQHandler
+                0x0000000000003504                UART7_IRQHandler
+                0x0000000000003504                USART2_IRQHandler
+                0x0000000000003504                UART6_IRQHandler
+                0x0000000000003504                I2C2_ER_IRQHandler
+                0x0000000000003504                DMA1_Channel2_IRQHandler
+                0x0000000000003504                TIM8_BRK_IRQHandler
+                0x0000000000003504                CAN1_SCE_IRQHandler
+                0x0000000000003504                FLASH_IRQHandler
+                0x0000000000003504                USART1_IRQHandler
+                0x0000000000003504                SPI3_IRQHandler
+                0x0000000000003504                I2C1_ER_IRQHandler
+                0x0000000000003504                DMA2_Channel3_IRQHandler
+ .text.handle_reset
+                0x0000000000003506       0x88 obj/Debug/startup_ch32v30x_D8.o
+                0x0000000000003506                handle_reset
+ .text.main     0x000000000000358e       0x4a obj/Debug/main.o
+                0x000000000000358e                main
+ .text.printf   0x00000000000035d8       0x2a /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-printf.o)
+                0x00000000000035d8                printf
+ .text._puts_r  0x0000000000003602       0xb8 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-puts.o)
+                0x0000000000003602                _puts_r
+ .text.puts     0x00000000000036ba        0x8 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-puts.o)
+                0x00000000000036ba                puts
+ .text.strlen   0x00000000000036c2       0x64 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strlen.o)
+                0x00000000000036c2                strlen
+ .text._vfprintf_r
+                0x0000000000003726     0x1eac /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfprintf.o)
+                0x0000000000003726                _vfprintf_r
+ .text.__sbprintf
+                0x00000000000055d2       0xb2 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfprintf.o)
+ .text._wcrtomb_r
+                0x0000000000005684       0x54 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wcrtomb.o)
+                0x0000000000005684                _wcrtomb_r
+ .text._wcsrtombs_r
+                0x00000000000056d8        0xa /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wcsrtombs.o)
+                0x00000000000056d8                _wcsrtombs_r
+ .text.__swsetup_r
+                0x00000000000056e2       0xdc /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wsetup.o)
+                0x00000000000056e2                __swsetup_r
+ .text.quorem   0x00000000000057be      0x142 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-dtoa.o)
+ .text._dtoa_r  0x0000000000005900      0xf54 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-dtoa.o)
+                0x0000000000005900                _dtoa_r
+ .text.__sflush_r
+                0x0000000000006854      0x180 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fflush.o)
+                0x0000000000006854                __sflush_r
+ .text._fflush_r
+                0x00000000000069d4       0x7c /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fflush.o)
+                0x00000000000069d4                _fflush_r
+ .text._cleanup_r
+                0x0000000000006a50        0xc /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-findfp.o)
+                0x0000000000006a50                _cleanup_r
+ .text.__sinit  0x0000000000006a5c      0x150 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-findfp.o)
+                0x0000000000006a5c                __sinit
+ .text.__sfp_lock_acquire
+                0x0000000000006bac        0x6 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-findfp.o)
+                0x0000000000006bac                __sfp_lock_acquire
+ .text.__sfp_lock_release
+                0x0000000000006bb2        0x6 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-findfp.o)
+                0x0000000000006bb2                __sfp_lock_release
+ .text._malloc_trim_r
+                0x0000000000006bb8       0xcc /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-freer.o)
+                0x0000000000006bb8                _malloc_trim_r
+ .text._free_r  0x0000000000006c84      0x22c /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-freer.o)
+                0x0000000000006c84                _free_r
+ .text.__sfvwrite_r
+                0x0000000000006eb0      0x31c /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fvwrite.o)
+                0x0000000000006eb0                __sfvwrite_r
+ .text._fwalk_reent
+                0x00000000000071cc       0x74 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fwalk.o)
+                0x00000000000071cc                _fwalk_reent
+ .text._localeconv_r
+                0x0000000000007240        0xa /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-localeconv.o)
+                0x0000000000007240                _localeconv_r
+ .text.__locale_mb_cur_max
+                0x000000000000724a        0xa /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-locale.o)
+                0x000000000000724a                __locale_mb_cur_max
+ .text.__retarget_lock_init_recursive
+                0x0000000000007254        0x2 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-lock.o)
+                0x0000000000007254                __retarget_lock_init_recursive
+ .text.__retarget_lock_close_recursive
+                0x0000000000007256        0x2 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-lock.o)
+                0x0000000000007256                __retarget_lock_close_recursive
+ .text.__retarget_lock_acquire_recursive
+                0x0000000000007258        0x2 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-lock.o)
+                0x0000000000007258                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_release_recursive
+                0x000000000000725a        0x2 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-lock.o)
+                0x000000000000725a                __retarget_lock_release_recursive
+ .text.__smakebuf_r
+                0x000000000000725c      0x10c /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-makebuf.o)
+                0x000000000000725c                __smakebuf_r
+ .text._malloc_r
+                0x0000000000007368      0x596 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mallocr.o)
+                0x0000000000007368                _malloc_r
+ .text.__ascii_mbtowc
+                0x00000000000078fe       0x40 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mbtowc_r.o)
+                0x00000000000078fe                __ascii_mbtowc
+ .text.memchr   0x000000000000793e       0x90 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-memchr.o)
+                0x000000000000793e                memchr
+ .text.memcpy   0x00000000000079ce      0x146 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-memcpy.o)
+                0x00000000000079ce                memcpy
+ .text.memmove  0x0000000000007b14       0xd2 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-memmove-stub.o)
+                0x0000000000007b14                memmove
+ .text.__malloc_lock
+                0x0000000000007be6        0x8 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mlock.o)
+                0x0000000000007be6                __malloc_lock
+ .text.__malloc_unlock
+                0x0000000000007bee        0x8 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mlock.o)
+                0x0000000000007bee                __malloc_unlock
+ .text._Balloc  0x0000000000007bf6       0x66 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mprec.o)
+                0x0000000000007bf6                _Balloc
+ .text._Bfree   0x0000000000007c5c       0x12 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mprec.o)
+                0x0000000000007c5c                _Bfree
+ .text.__multadd
+                0x0000000000007c6e       0xe8 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mprec.o)
+                0x0000000000007c6e                __multadd
+ .text.__hi0bits
+                0x0000000000007d56       0x50 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mprec.o)
+                0x0000000000007d56                __hi0bits
+ .text.__lo0bits
+                0x0000000000007da6       0x8a /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mprec.o)
+                0x0000000000007da6                __lo0bits
+ .text.__i2b    0x0000000000007e30       0x6c /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mprec.o)
+                0x0000000000007e30                __i2b
+ .text.__multiply
+                0x0000000000007e9c      0x19a /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mprec.o)
+                0x0000000000007e9c                __multiply
+ .text.__pow5mult
+                0x0000000000008036       0xda /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mprec.o)
+                0x0000000000008036                __pow5mult
+ .text.__lshift
+                0x0000000000008110      0x112 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mprec.o)
+                0x0000000000008110                __lshift
+ .text.__mcmp   0x0000000000008222       0x3c /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mprec.o)
+                0x0000000000008222                __mcmp
+ .text.__mdiff  0x000000000000825e      0x1a8 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mprec.o)
+                0x000000000000825e                __mdiff
+ .text.__d2b    0x0000000000008406       0xec /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mprec.o)
+                0x0000000000008406                __d2b
+ .text._realloc_r
+                0x00000000000084f2      0x3d0 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-reallocr.o)
+                0x00000000000084f2                _realloc_r
+ .text._sbrk_r  0x00000000000088c2       0x30 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-sbrkr.o)
+                0x00000000000088c2                _sbrk_r
+ .text.frexp    0x00000000000088f2       0x7a /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-s_frexp.o)
+                0x00000000000088f2                frexp
+ .text.__sread  0x000000000000896c       0x38 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-stdio.o)
+                0x000000000000896c                __sread
+ .text.__swrite
+                0x00000000000089a4       0x54 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-stdio.o)
+                0x00000000000089a4                __swrite
+ .text.__sseek  0x00000000000089f8       0x4a /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-stdio.o)
+                0x00000000000089f8                __sseek
+ .text.__sclose
+                0x0000000000008a42        0x8 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-stdio.o)
+                0x0000000000008a42                __sclose
+ .text.strncpy  0x0000000000008a4a       0x7c /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strncpy.o)
+                0x0000000000008a4a                strncpy
+ .text.__sprint_r.part.0
+                0x0000000000008ac6       0x98 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfiprintf.o)
+ .text.__sprint_r
+                0x0000000000008b5e        0xe /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfiprintf.o)
+                0x0000000000008b5e                __sprint_r
+ .text._vfiprintf_r
+                0x0000000000008b6c     0x10e6 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfiprintf.o)
+                0x0000000000008b6c                _vfiprintf_r
+ .text.__sbprintf
+                0x0000000000009c52       0xb2 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfiprintf.o)
+ .text._wcsnrtombs_l
+                0x0000000000009d04      0x120 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wcsnrtombs.o)
+                0x0000000000009d04                _wcsnrtombs_l
+ .text._wcsnrtombs_r
+                0x0000000000009e24       0x10 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wcsnrtombs.o)
+                0x0000000000009e24                _wcsnrtombs_r
+ .text.__ascii_wctomb
+                0x0000000000009e34       0x20 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wctomb_r.o)
+                0x0000000000009e34                __ascii_wctomb
+ .text._write_r
+                0x0000000000009e54       0x36 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-writer.o)
+                0x0000000000009e54                _write_r
+ .text.__assert_func
+                0x0000000000009e8a       0x3c /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-assert.o)
+                0x0000000000009e8a                __assert_func
+ .text._calloc_r
+                0x0000000000009ec6       0xa6 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-callocr.o)
+                0x0000000000009ec6                _calloc_r
+ .text._close_r
+                0x0000000000009f6c       0x2e /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-closer.o)
+                0x0000000000009f6c                _close_r
+ .text.__errno  0x0000000000009f9a        0x6 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-errno.o)
+                0x0000000000009f9a                __errno
+ .text._fclose_r
+                0x0000000000009fa0       0xee /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fclose.o)
+                0x0000000000009fa0                _fclose_r
+ .text.fiprintf
+                0x000000000000a08e       0x2a /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fiprintf.o)
+                0x000000000000a08e                fiprintf
+ .text.__fputwc
+                0x000000000000a0b8       0xbe /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fputwc.o)
+                0x000000000000a0b8                __fputwc
+ .text._fputwc_r
+                0x000000000000a176       0x7e /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fputwc.o)
+                0x000000000000a176                _fputwc_r
+ .text._fstat_r
+                0x000000000000a1f4       0x32 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fstatr.o)
+                0x000000000000a1f4                _fstat_r
+ .text._isatty_r
+                0x000000000000a226       0x2e /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-isattyr.o)
+                0x000000000000a226                _isatty_r
+ .text._lseek_r
+                0x000000000000a254       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-lseekr.o)
+                0x000000000000a254                _lseek_r
+ .text._read_r  0x000000000000a288       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-readr.o)
+                0x000000000000a288                _read_r
+ .text.__swbuf_r
+                0x000000000000a2bc       0xf2 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wbuf.o)
+                0x000000000000a2bc                __swbuf_r
+ .text.abort    0x000000000000a3ae        0xc /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-abort.o)
+                0x000000000000a3ae                abort
+ .text.raise    0x000000000000a3ba       0x6e /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-signal.o)
+                0x000000000000a3ba                raise
+ .text._kill_r  0x000000000000a428       0x32 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-signalr.o)
+                0x000000000000a428                _kill_r
+ .text._getpid_r
+                0x000000000000a45a        0x2 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-signalr.o)
+                0x000000000000a45a                _getpid_r
+ .text._close   0x000000000000a45c        0xc /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(close.o)
+                0x000000000000a45c                _close
+ .text._fstat   0x000000000000a468        0xc /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(fstat.o)
+                0x000000000000a468                _fstat
+ .text._getpid  0x000000000000a474        0xc /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(getpid.o)
+                0x000000000000a474                _getpid
+ .text._isatty  0x000000000000a480        0xc /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(isatty.o)
+                0x000000000000a480                _isatty
+ .text._kill    0x000000000000a48c        0xc /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(kill.o)
+                0x000000000000a48c                _kill
+ .text._lseek   0x000000000000a498        0xc /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(lseek.o)
+                0x000000000000a498                _lseek
+ .text._read    0x000000000000a4a4        0xc /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(read.o)
+                0x000000000000a4a4                _read
+ .text._exit    0x000000000000a4b0        0x2 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(_exit.o)
+                0x000000000000a4b0                _exit
+ .text.__adddf3
+                0x000000000000a4b2      0x6e8 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(adddf3.o)
+                0x000000000000a4b2                __adddf3
+ .text.__divdf3
+                0x000000000000ab9a      0x5ae /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(divdf3.o)
+                0x000000000000ab9a                __divdf3
+ .text.__eqdf2  0x000000000000b148       0x6c /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(eqdf2.o)
+                0x000000000000b148                __eqdf2
+                0x000000000000b148                __nedf2
+ .text.__gedf2  0x000000000000b1b4       0xbe /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(gedf2.o)
+                0x000000000000b1b4                __gtdf2
+                0x000000000000b1b4                __gedf2
+ .text.__ledf2  0x000000000000b272       0xbc /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(ledf2.o)
+                0x000000000000b272                __ltdf2
+                0x000000000000b272                __ledf2
+ .text.__muldf3
+                0x000000000000b32e      0x54a /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(muldf3.o)
+                0x000000000000b32e                __muldf3
+ .text.__subdf3
+                0x000000000000b878      0x736 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(subdf3.o)
+                0x000000000000b878                __subdf3
+ .text.__unorddf2
+                0x000000000000bfae       0x3e /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(unorddf2.o)
+                0x000000000000bfae                __unorddf2
+ .text.__fixdfsi
+                0x000000000000bfec       0x66 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(fixdfsi.o)
+                0x000000000000bfec                __fixdfsi
+ .text.__floatsidf
+                0x000000000000c052       0x6e /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(floatsidf.o)
+                0x000000000000c052                __floatsidf
+ .text.__floatunsidf
+                0x000000000000c0c0       0x6e /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(floatunsidf.o)
+                0x000000000000c0c0                __floatunsidf
+ .text.__trunctfdf2
+                0x000000000000c12e      0x286 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(trunctfdf2.o)
+                0x000000000000c12e                __trunctfdf2
+ .text.__clzsi2
+                0x000000000000c3b4       0x6e /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(_clzsi2.o)
+                0x000000000000c3b4                __clzsi2
+ *(.rodata)
+ *fill*         0x000000000000c422        0x2 
+ .rodata        0x000000000000c424       0x38 obj/Debug/main.o
+ *(.rodata*)
+ .rodata._puts_r.str1.4
+                0x000000000000c45c        0x2 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-puts.o)
+ *fill*         0x000000000000c45e        0x2 
+ .rodata._vfprintf_r.str1.4
+                0x000000000000c460       0x42 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfprintf.o)
+ *fill*         0x000000000000c4a2        0x2 
+ .rodata._vfprintf_r
+                0x000000000000c4a4      0x204 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfprintf.o)
+ .rodata.zeroes.0
+                0x000000000000c6a8       0x10 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfprintf.o)
+ .rodata.blanks.1
+                0x000000000000c6b8       0x10 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfprintf.o)
+ .rodata._dtoa_r.str1.4
+                0x000000000000c6c8       0x95 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-dtoa.o)
+                                         0x99 (size before relaxing)
+ *fill*         0x000000000000c75d        0x3 
+ .rodata.str1.4
+                0x000000000000c760       0x48 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-locale.o)
+                                         0x4c (size before relaxing)
+ .rodata.__multadd.str1.4
+                0x000000000000c7a8       0x72 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mprec.o)
+                                         0x86 (size before relaxing)
+ *fill*         0x000000000000c81a        0x2 
+ .rodata.p05.0  0x000000000000c81c        0xc /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mprec.o)
+ *fill*         0x000000000000c828        0x0 
+ .rodata.__mprec_bigtens
+                0x000000000000c828       0x28 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mprec.o)
+                0x000000000000c828                __mprec_bigtens
+ .rodata.__mprec_tens
+                0x000000000000c850       0xc8 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mprec.o)
+                0x000000000000c850                __mprec_tens
+ .rodata._vfiprintf_r.str1.4
+                0x000000000000c918       0x2f /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfiprintf.o)
+ .rodata._vfiprintf_r
+                0x000000000000c918      0x16c /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfiprintf.o)
+ .rodata.zeroes.0
+                0x000000000000ca84       0x10 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfiprintf.o)
+ .rodata.blanks.1
+                0x000000000000ca94       0x10 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfiprintf.o)
+ .rodata.__assert_func.str1.4
+                0x000000000000caa4       0x3f /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-assert.o)
+                                         0x43 (size before relaxing)
+ *fill*         0x000000000000cae3        0x1 
+ .rodata._ctype_
+                0x000000000000cae4      0x101 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-ctype_.o)
+                0x000000000000cae4                _ctype_
+ *fill*         0x000000000000cbe5        0x3 
+ .rodata.__divdf3
+                0x000000000000cbe8       0x40 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(divdf3.o)
+ .rodata.__clz_tab
+                0x000000000000cc28      0x100 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(_clz.o)
+                0x000000000000cc28                __clz_tab
+ *(.gnu.linkonce.t.*)
+                0x000000000000cd28                . = ALIGN (0x4)
+
+.rela.dyn       0x000000000000cd28        0x0
+ .rela.text     0x000000000000cd28        0x0 obj/Debug/debug.o
+ .rela.sdata    0x000000000000cd28        0x0 obj/Debug/debug.o
+ .rela.init     0x000000000000cd28        0x0 obj/Debug/debug.o
+ .rela.vector   0x000000000000cd28        0x0 obj/Debug/debug.o
+ .rela.text.handle_reset
+                0x000000000000cd28        0x0 obj/Debug/debug.o
+
+.fini           0x000000000000cd28        0x0
+ *(SORT_NONE(.fini))
+                0x000000000000cd28                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (_etext = .)
+                [!provide]                        PROVIDE (_eitcm = .)
+
+.preinit_array  0x000000000000cd28        0x0
+                [!provide]                        PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                [!provide]                        PROVIDE (__preinit_array_end = .)
+
+.init_array     0x000000000000cd28        0x0
+                [!provide]                        PROVIDE (__init_array_start = .)
+ *(SORT_BY_INIT_PRIORITY(.init_array.*) SORT_BY_INIT_PRIORITY(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+                [!provide]                        PROVIDE (__init_array_end = .)
+
+.fini_array     0x000000000000cd28        0x0
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_INIT_PRIORITY(.fini_array.*) SORT_BY_INIT_PRIORITY(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+                [!provide]                        PROVIDE (__fini_array_end = .)
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+
+.dalign         0x0000000020000000        0x0 load address 0x000000000000cd28
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                PROVIDE (_data_vma = .)
+
+.dlalign        0x000000000000cd28        0x0
+                0x000000000000cd28                . = ALIGN (0x4)
+                0x000000000000cd28                PROVIDE (_data_lma = .)
+
+.data           0x0000000020000000      0xa40 load address 0x000000000000cd28
+ *(.gnu.linkonce.r.*)
+ *(.data .data.*)
+ .data          0x0000000020000000       0x10 obj/Debug/ch32v30x_rcc.o
+ .data          0x0000000020000010       0x10 obj/Debug/system_ch32v30x.o
+                0x0000000020000010                AHBPrescTable
+ .data.impure_data
+                0x0000000020000020      0x428 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-impure.o)
+ .data.__global_locale
+                0x0000000020000448      0x16c /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-locale.o)
+                0x0000000020000448                __global_locale
+ .data.__malloc_av_
+                0x00000000200005b4      0x408 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mallocr.o)
+                0x00000000200005b4                __malloc_av_
+ *(.gnu.linkonce.d.*)
+                0x00000000200009c0                . = ALIGN (0x8)
+ *fill*         0x00000000200009bc        0x4 
+                0x00000000200011c0                PROVIDE (__global_pointer$ = (. + 0x800))
+ *(.sdata .sdata.*)
+ .sdata         0x00000000200009c0        0x4 obj/Debug/debug.o
+ .sdata         0x00000000200009c4        0x4 obj/Debug/ch32v30x_rcc.o
+ .sdata         0x00000000200009c8        0x4 obj/Debug/system_ch32v30x.o
+                0x00000000200009c8                SystemCoreClock
+ .sdata._impure_ptr
+                0x00000000200009cc        0x4 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-impure.o)
+                0x00000000200009cc                _impure_ptr
+ .sdata.__malloc_sbrk_base
+                0x00000000200009d0        0x4 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mallocr.o)
+                0x00000000200009d0                __malloc_sbrk_base
+ .sdata.__malloc_trim_threshold
+                0x00000000200009d4        0x4 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mallocr.o)
+                0x00000000200009d4                __malloc_trim_threshold
+ *(.sdata2.*)
+ *(.gnu.linkonce.s.*)
+                0x00000000200009d8                . = ALIGN (0x8)
+ *(.srodata.cst16)
+ *(.srodata.cst8)
+ .srodata.cst8  0x00000000200009d8       0x20 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfprintf.o)
+ .srodata.cst8  0x00000000200009f8       0x40 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-dtoa.o)
+                                         0x48 (size before relaxing)
+ .srodata.cst8  0x0000000020000a38        0x8 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-s_frexp.o)
+ *(.srodata.cst4)
+ *(.srodata.cst2)
+ *(.srodata .srodata.*)
+                0x0000000020000a40                . = ALIGN (0x4)
+                0x0000000020000a40                PROVIDE (_edata = .)
+
+.bss            0x0000000020000a40       0x4c load address 0x000000000000d768
+                0x0000000020000a40                . = ALIGN (0x4)
+                0x0000000020000a40                PROVIDE (_sbss = .)
+ *(.sbss*)
+ .sbss          0x0000000020000a40        0x4 obj/Debug/ch32v30x_misc.o
+                0x0000000020000a40                NVIC_Priority_Group
+ .sbss.__lock___malloc_recursive_mutex
+                0x0000000020000a44        0x1 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-lock.o)
+                0x0000000020000a44                __lock___malloc_recursive_mutex
+ *fill*         0x0000000020000a45        0x3 
+ .sbss.__lock___sfp_recursive_mutex
+                0x0000000020000a48        0x1 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-lock.o)
+                0x0000000020000a48                __lock___sfp_recursive_mutex
+ *fill*         0x0000000020000a49        0x3 
+ .sbss.__lock___sinit_recursive_mutex
+                0x0000000020000a4c        0x1 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-lock.o)
+                0x0000000020000a4c                __lock___sinit_recursive_mutex
+ *fill*         0x0000000020000a4d        0x3 
+ .sbss.__malloc_max_total_mem
+                0x0000000020000a50        0x4 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mallocr.o)
+                0x0000000020000a50                __malloc_max_total_mem
+ .sbss.__malloc_max_sbrked_mem
+                0x0000000020000a54        0x4 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mallocr.o)
+                0x0000000020000a54                __malloc_max_sbrked_mem
+ .sbss.__malloc_top_pad
+                0x0000000020000a58        0x4 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mallocr.o)
+                0x0000000020000a58                __malloc_top_pad
+ .sbss.errno    0x0000000020000a5c        0x4 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-reent.o)
+                0x0000000020000a5c                errno
+ *(.gnu.linkonce.sb.*)
+ *(.bss*)
+ .bss           0x0000000020000a60        0x4 obj/Debug/debug.o
+ .bss.__malloc_current_mallinfo
+                0x0000000020000a64       0x28 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mallocr.o)
+                0x0000000020000a64                __malloc_current_mallinfo
+ *(.gnu.linkonce.b.*)
+ *(COMMON*)
+                0x0000000020000a8c                . = ALIGN (0x4)
+                0x0000000020000a8c                PROVIDE (_ebss = .)
+                0x0000000020000a8c                PROVIDE (_end = _ebss)
+                [!provide]                        PROVIDE (end = .)
+
+.stack          0x0000000020007800      0x800
+                0x0000000020007800                PROVIDE (_heap_end = .)
+                0x0000000020007800                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (_susrstack = .)
+                0x0000000020008000                . = (. + __stack_size)
+ *fill*         0x0000000020007800      0x800 
+                0x0000000020008000                PROVIDE (_eusrstack = .)
+OUTPUT(bin/Debug/Template elf32-littleriscv)
+
+.comment        0x0000000000000000       0x33
+ .comment       0x0000000000000000       0x33 obj/Debug/debug.o
+                                         0x34 (size before relaxing)
+ .comment       0x0000000000000033       0x34 obj/Debug/ch32v30x_dbgmcu.o
+ .comment       0x0000000000000033       0x34 obj/Debug/ch32v30x_gpio.o
+ .comment       0x0000000000000033       0x34 obj/Debug/ch32v30x_misc.o
+ .comment       0x0000000000000033       0x34 obj/Debug/ch32v30x_rcc.o
+ .comment       0x0000000000000033       0x34 obj/Debug/ch32v30x_usart.o
+ .comment       0x0000000000000033       0x34 obj/Debug/ch32v30x_it.o
+ .comment       0x0000000000000033       0x34 obj/Debug/main.o
+ .comment       0x0000000000000033       0x34 obj/Debug/system_ch32v30x.o
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-printf.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-puts.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strlen.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfprintf.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wcrtomb.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wcsrtombs.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wsetup.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-dtoa.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fflush.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-findfp.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-freer.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fvwrite.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fwalk.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-impure.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-localeconv.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-locale.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-lock.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-makebuf.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mallocr.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mbtowc_r.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-memchr.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-memcpy.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-memmove-stub.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mlock.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mprec.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-reallocr.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-sbrkr.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-s_frexp.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-stdio.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strncpy.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfiprintf.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wcsnrtombs.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wctomb_r.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-writer.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-assert.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-callocr.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-closer.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-ctype_.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-errno.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fclose.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fiprintf.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fputwc.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fstatr.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-isattyr.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-lseekr.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-readr.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-reent.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wbuf.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-abort.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-signal.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-signalr.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(close.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(fstat.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(getpid.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(isatty.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(kill.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(lseek.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(read.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(_exit.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(adddf3.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(divdf3.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(eqdf2.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(gedf2.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(ledf2.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(muldf3.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(subdf3.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(unorddf2.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(fixdfsi.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(floatsidf.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(floatunsidf.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(trunctfdf2.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(_clzsi2.o)
+ .comment       0x0000000000000033       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(_clz.o)
+
+.riscv.attributes
+                0x0000000000000000       0x34
+ .riscv.attributes
+                0x0000000000000000       0x34 obj/Debug/debug.o
+ .riscv.attributes
+                0x0000000000000034       0x34 obj/Debug/ch32v30x_dbgmcu.o
+ .riscv.attributes
+                0x0000000000000068       0x34 obj/Debug/ch32v30x_gpio.o
+ .riscv.attributes
+                0x000000000000009c       0x34 obj/Debug/ch32v30x_misc.o
+ .riscv.attributes
+                0x00000000000000d0       0x34 obj/Debug/ch32v30x_rcc.o
+ .riscv.attributes
+                0x0000000000000104       0x34 obj/Debug/ch32v30x_usart.o
+ .riscv.attributes
+                0x0000000000000138       0x32 obj/Debug/startup_ch32v30x_D8.o
+ .riscv.attributes
+                0x000000000000016a       0x34 obj/Debug/ch32v30x_it.o
+ .riscv.attributes
+                0x000000000000019e       0x34 obj/Debug/main.o
+ .riscv.attributes
+                0x00000000000001d2       0x34 obj/Debug/system_ch32v30x.o
+ .riscv.attributes
+                0x0000000000000206       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-printf.o)
+ .riscv.attributes
+                0x000000000000023a       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-puts.o)
+ .riscv.attributes
+                0x000000000000026e       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strlen.o)
+ .riscv.attributes
+                0x00000000000002a2       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfprintf.o)
+ .riscv.attributes
+                0x00000000000002d6       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wcrtomb.o)
+ .riscv.attributes
+                0x000000000000030a       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wcsrtombs.o)
+ .riscv.attributes
+                0x000000000000033e       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wsetup.o)
+ .riscv.attributes
+                0x0000000000000372       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-dtoa.o)
+ .riscv.attributes
+                0x00000000000003a6       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fflush.o)
+ .riscv.attributes
+                0x00000000000003da       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-findfp.o)
+ .riscv.attributes
+                0x000000000000040e       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-freer.o)
+ .riscv.attributes
+                0x0000000000000442       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fvwrite.o)
+ .riscv.attributes
+                0x0000000000000476       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fwalk.o)
+ .riscv.attributes
+                0x00000000000004aa       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-impure.o)
+ .riscv.attributes
+                0x00000000000004de       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-localeconv.o)
+ .riscv.attributes
+                0x0000000000000512       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-locale.o)
+ .riscv.attributes
+                0x0000000000000546       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-lock.o)
+ .riscv.attributes
+                0x000000000000057a       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-makebuf.o)
+ .riscv.attributes
+                0x00000000000005ae       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mallocr.o)
+ .riscv.attributes
+                0x00000000000005e2       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mbtowc_r.o)
+ .riscv.attributes
+                0x0000000000000616       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-memchr.o)
+ .riscv.attributes
+                0x000000000000064a       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-memcpy.o)
+ .riscv.attributes
+                0x000000000000067e       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-memmove-stub.o)
+ .riscv.attributes
+                0x00000000000006b2       0x32 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-memset.o)
+ .riscv.attributes
+                0x00000000000006e4       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mlock.o)
+ .riscv.attributes
+                0x0000000000000718       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-mprec.o)
+ .riscv.attributes
+                0x000000000000074c       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-reallocr.o)
+ .riscv.attributes
+                0x0000000000000780       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-sbrkr.o)
+ .riscv.attributes
+                0x00000000000007b4       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-s_frexp.o)
+ .riscv.attributes
+                0x00000000000007e8       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-stdio.o)
+ .riscv.attributes
+                0x000000000000081c       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-strncpy.o)
+ .riscv.attributes
+                0x0000000000000850       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-vfiprintf.o)
+ .riscv.attributes
+                0x0000000000000884       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wcsnrtombs.o)
+ .riscv.attributes
+                0x00000000000008b8       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wctomb_r.o)
+ .riscv.attributes
+                0x00000000000008ec       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-writer.o)
+ .riscv.attributes
+                0x0000000000000920       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-assert.o)
+ .riscv.attributes
+                0x0000000000000954       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-callocr.o)
+ .riscv.attributes
+                0x0000000000000988       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-closer.o)
+ .riscv.attributes
+                0x00000000000009bc       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-ctype_.o)
+ .riscv.attributes
+                0x00000000000009f0       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-errno.o)
+ .riscv.attributes
+                0x0000000000000a24       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fclose.o)
+ .riscv.attributes
+                0x0000000000000a58       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fiprintf.o)
+ .riscv.attributes
+                0x0000000000000a8c       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fputwc.o)
+ .riscv.attributes
+                0x0000000000000ac0       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-fstatr.o)
+ .riscv.attributes
+                0x0000000000000af4       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-isattyr.o)
+ .riscv.attributes
+                0x0000000000000b28       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-lseekr.o)
+ .riscv.attributes
+                0x0000000000000b5c       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-readr.o)
+ .riscv.attributes
+                0x0000000000000b90       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-reent.o)
+ .riscv.attributes
+                0x0000000000000bc4       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-wbuf.o)
+ .riscv.attributes
+                0x0000000000000bf8       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-abort.o)
+ .riscv.attributes
+                0x0000000000000c2c       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-signal.o)
+ .riscv.attributes
+                0x0000000000000c60       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libc.a(lib_a-signalr.o)
+ .riscv.attributes
+                0x0000000000000c94       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(close.o)
+ .riscv.attributes
+                0x0000000000000cc8       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(fstat.o)
+ .riscv.attributes
+                0x0000000000000cfc       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(getpid.o)
+ .riscv.attributes
+                0x0000000000000d30       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(isatty.o)
+ .riscv.attributes
+                0x0000000000000d64       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(kill.o)
+ .riscv.attributes
+                0x0000000000000d98       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(lseek.o)
+ .riscv.attributes
+                0x0000000000000dcc       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(read.o)
+ .riscv.attributes
+                0x0000000000000e00       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/../../../../riscv-wch-elf/lib/libnosys.a(_exit.o)
+ .riscv.attributes
+                0x0000000000000e34       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(adddf3.o)
+ .riscv.attributes
+                0x0000000000000e68       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(divdf3.o)
+ .riscv.attributes
+                0x0000000000000e9c       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(eqdf2.o)
+ .riscv.attributes
+                0x0000000000000ed0       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(gedf2.o)
+ .riscv.attributes
+                0x0000000000000f04       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(ledf2.o)
+ .riscv.attributes
+                0x0000000000000f38       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(muldf3.o)
+ .riscv.attributes
+                0x0000000000000f6c       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(subdf3.o)
+ .riscv.attributes
+                0x0000000000000fa0       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(unorddf2.o)
+ .riscv.attributes
+                0x0000000000000fd4       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(fixdfsi.o)
+ .riscv.attributes
+                0x0000000000001008       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(floatsidf.o)
+ .riscv.attributes
+                0x000000000000103c       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(floatunsidf.o)
+ .riscv.attributes
+                0x0000000000001070       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(trunctfdf2.o)
+ .riscv.attributes
+                0x00000000000010a4       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(_clzsi2.o)
+ .riscv.attributes
+                0x00000000000010d8       0x34 /usr/local/bin/../lib/gcc/riscv-wch-elf/12.2.0/libgcc.a(_clz.o)
