@@ -1,3 +1,3 @@
-#/bin/sh
+#!/bin/sh
 
-make CC="riscv-wch-elf-gcc" LD="riscv-wch-elf-ld"
+make $1 CC="riscv-wch-elf-gcc" LD="riscv-wch-elf-ld" CXX="riscv-wch-elf-g++"

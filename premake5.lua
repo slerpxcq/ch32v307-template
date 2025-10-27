@@ -8,8 +8,13 @@ project "Template"
 	objdir "obj/%{cfg.buildcfg}"
 
 	ARCH = "-march=rv32imac -mabi=ilp32"
-	LIBS = "-lc -lm -lnosys"
 	LDSCRIPT = "Ld/Link.ld"
+	OBJCOPY = "riscv-wch-elf-objcopy"
+
+	postbuildcommands {
+		"{MOVE} %{cfg.buildtarget.abspath} %{cfg.buildtarget.abspath}.elf",
+		"%{OBJCOPY} -O ihex %{cfg.buildtarget.abspath}.elf %{cfg.buildtarget.abspath}.hex",
+	}
 
 	includedirs {
 		"Core",
@@ -27,10 +32,11 @@ project "Template"
 	}
 
 	buildoptions {
-		{ARCH}
+		"%{ARCH}"
 	}
 
 	linkoptions {
+		"%{ARCH}",
 		"-msave-restore",
 		"-fmessage-length=0",
 		"-fsigned-char",
@@ -45,22 +51,35 @@ project "Template"
 		"--specs=nosys.specs",
 		"-Wl,-Map=%{prj.name}.map",
 		"-T%{LDSCRIPT}",
-		{LIBS}
+	}
+
+	links {
+		"c",
+		"m",
+		"nosys"
 	}
 
 	filter "configurations:Debug"
 		buildoptions {
 			"-O0",
-			"-g"
+			"-g",
+			"-ggdb"
+		}
+		defines {
+			"DEBUG"
 		}
 
 		linkoptions {
-			"-g"
+			"-g",
+			"-ggdb"
 		}
 	
 	filter "configurations:Release"
 		buildoptions { 
 			"-Ofast" 
+		}
+		defines {
+			"NDEBUG"
 		}
 
 
