@@ -19,12 +19,12 @@ ifeq ($(config),debug)
   INCLUDES += -ICore -IDebug -IPeripheral/inc -IUser
   FORCE_INCLUDE +=
   ALL_CPPFLAGS += $(CPPFLAGS) -MD -MP $(DEFINES) $(INCLUDES)
-  ALL_CFLAGS += $(CFLAGS) $(ALL_CPPFLAGS) -march=rv32imac -mabi=ilp32 -O0 -g -ggdb
-  ALL_CXXFLAGS += $(CXXFLAGS) $(ALL_CPPFLAGS) -march=rv32imac -mabi=ilp32 -O0 -g -ggdb
+  ALL_CFLAGS += $(CFLAGS) $(ALL_CPPFLAGS) -g -march=rv32imac -mabi=ilp32 -msmall-data-limit=8 -msave-restore -flto -std=gnu11 -O0 -g
+  ALL_CXXFLAGS += $(CXXFLAGS) $(ALL_CPPFLAGS) -g -march=rv32imac -mabi=ilp32 -msmall-data-limit=8 -msave-restore -flto -std=gnu11 -O0 -g
   ALL_RESFLAGS += $(RESFLAGS) $(DEFINES) $(INCLUDES)
-  LIBS += -lc -lm -lnosys
+  LIBS += -lg_nano -lc_nano -lm -lnosys
   LDDEPS +=
-  ALL_LDFLAGS += $(LDFLAGS) -s -march=rv32imac -mabi=ilp32 -msave-restore -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -fno-common -Wunused -Wuninitialized -nostartfiles -Xlinker --gc-sections --specs=nosys.specs -Wl,-Map=Template.map -TLd/Link.ld -g -ggdb
+  ALL_LDFLAGS += $(LDFLAGS) -march=rv32imac -mabi=ilp32 -msmall-data-limit=8 -msave-restore -flto -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -fno-common -Wunused -Wuninitialized -nostartfiles --specs=nosys.specs --specs=nano.specs -Xlinker --gc-sections -Xlinker -Map=Template.map -TLd/Link.ld -v -g
   LINKCMD = $(CC) -o "$@" $(OBJECTS) $(RESOURCES) $(ALL_LDFLAGS) $(LIBS)
   define PREBUILDCMDS
   endef
@@ -33,6 +33,7 @@ ifeq ($(config),debug)
   define POSTBUILDCMDS
 	@echo Running postbuild commands
 	mv -f bin/Debug/Template bin/Debug/Template.elf
+	riscv-wch-elf-size bin/Debug/Template.elf
 	riscv-wch-elf-objcopy -O ihex bin/Debug/Template.elf bin/Debug/Template.hex
   endef
 all: prebuild prelink $(TARGET)
@@ -49,12 +50,12 @@ ifeq ($(config),release)
   INCLUDES += -ICore -IDebug -IPeripheral/inc -IUser
   FORCE_INCLUDE +=
   ALL_CPPFLAGS += $(CPPFLAGS) -MD -MP $(DEFINES) $(INCLUDES)
-  ALL_CFLAGS += $(CFLAGS) $(ALL_CPPFLAGS) -march=rv32imac -mabi=ilp32 -Ofast
-  ALL_CXXFLAGS += $(CXXFLAGS) $(ALL_CPPFLAGS) -march=rv32imac -mabi=ilp32 -Ofast
+  ALL_CFLAGS += $(CFLAGS) $(ALL_CPPFLAGS) -march=rv32imac -mabi=ilp32 -msmall-data-limit=8 -msave-restore -flto -std=gnu11 -Os
+  ALL_CXXFLAGS += $(CXXFLAGS) $(ALL_CPPFLAGS) -march=rv32imac -mabi=ilp32 -msmall-data-limit=8 -msave-restore -flto -std=gnu11 -Os
   ALL_RESFLAGS += $(RESFLAGS) $(DEFINES) $(INCLUDES)
-  LIBS += -lc -lm -lnosys
+  LIBS += -lg_nano -lc_nano -lm -lnosys
   LDDEPS +=
-  ALL_LDFLAGS += $(LDFLAGS) -s -march=rv32imac -mabi=ilp32 -msave-restore -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -fno-common -Wunused -Wuninitialized -nostartfiles -Xlinker --gc-sections --specs=nosys.specs -Wl,-Map=Template.map -TLd/Link.ld
+  ALL_LDFLAGS += $(LDFLAGS) -s -march=rv32imac -mabi=ilp32 -msmall-data-limit=8 -msave-restore -flto -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -fno-common -Wunused -Wuninitialized -nostartfiles --specs=nosys.specs --specs=nano.specs -Xlinker --gc-sections -Xlinker -Map=Template.map -TLd/Link.ld -v
   LINKCMD = $(CC) -o "$@" $(OBJECTS) $(RESOURCES) $(ALL_LDFLAGS) $(LIBS)
   define PREBUILDCMDS
   endef
@@ -63,6 +64,7 @@ ifeq ($(config),release)
   define POSTBUILDCMDS
 	@echo Running postbuild commands
 	mv -f bin/Release/Template bin/Release/Template.elf
+	riscv-wch-elf-size bin/Release/Template.elf
 	riscv-wch-elf-objcopy -O ihex bin/Release/Template.elf bin/Release/Template.hex
   endef
 all: prebuild prelink $(TARGET)

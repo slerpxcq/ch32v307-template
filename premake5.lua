@@ -7,13 +7,15 @@ project "Template"
 	targetdir "bin/%{cfg.buildcfg}"
 	objdir "obj/%{cfg.buildcfg}"
 
-	ARCH = "-march=rv32imac -mabi=ilp32"
+	ARCH = "-march=rv32imac -mabi=ilp32 -msmall-data-limit=8 -msave-restore"
 	LDSCRIPT = "Ld/Link.ld"
 	OBJCOPY = "riscv-wch-elf-objcopy"
+	SIZE = "riscv-wch-elf-size"
 
 	postbuildcommands {
 		"{MOVE} %{cfg.buildtarget.abspath} %{cfg.buildtarget.abspath}.elf",
-		"%{OBJCOPY} -O ihex %{cfg.buildtarget.abspath}.elf %{cfg.buildtarget.abspath}.hex",
+		"%{SIZE} %{cfg.buildtarget.abspath}.elf",
+		"%{OBJCOPY} -O ihex %{cfg.buildtarget.abspath}.elf %{cfg.buildtarget.abspath}.hex"
 	}
 
 	includedirs {
@@ -32,12 +34,14 @@ project "Template"
 	}
 
 	buildoptions {
-		"%{ARCH}"
+		"%{ARCH}",
+		"-flto",
+		"-std=gnu11"
 	}
 
 	linkoptions {
 		"%{ARCH}",
-		"-msave-restore",
+		"-flto",
 		"-fmessage-length=0",
 		"-fsigned-char",
 		"-ffunction-sections",
@@ -46,24 +50,26 @@ project "Template"
 		"-Wunused",
 		"-Wuninitialized",
 		"-nostartfiles",
-		"-Xlinker",
-		"--gc-sections",
 		"--specs=nosys.specs",
-		"-Wl,-Map=%{prj.name}.map",
+		"--specs=nano.specs",
+		"-Xlinker --gc-sections",
+		"-Xlinker -Map=%{prj.name}.map",
 		"-T%{LDSCRIPT}",
+		"-v"
 	}
 
 	links {
-		"c",
+		"g_nano",
+		"c_nano",
 		"m",
 		"nosys"
 	}
 
 	filter "configurations:Debug"
+		symbols "On"
 		buildoptions {
 			"-O0",
 			"-g",
-			"-ggdb"
 		}
 		defines {
 			"DEBUG"
@@ -71,12 +77,11 @@ project "Template"
 
 		linkoptions {
 			"-g",
-			"-ggdb"
 		}
 	
 	filter "configurations:Release"
 		buildoptions { 
-			"-Ofast" 
+			"-Os" 
 		}
 		defines {
 			"NDEBUG"
