@@ -30,7 +30,7 @@ project "Template"
 		"Debug/*.c",
 		"Peripheral/src/*.c",
 		"User/**.c",
-		"Startup/startup_ch32v30x_D8.S"
+		"Startup/startup_ch32v30x_D8C.S"
 	}
 
 	buildoptions {
@@ -55,7 +55,6 @@ project "Template"
 		"-Xlinker --gc-sections",
 		"-Xlinker -Map=%{prj.name}.map",
 		"-T%{LDSCRIPT}",
-		"-v"
 	}
 
 	links {
